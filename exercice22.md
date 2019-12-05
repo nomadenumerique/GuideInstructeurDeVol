@@ -151,19 +151,15 @@ au sol
 
 - interrupteur principal (master) coup&eacute;
 
-#### pendant la mont&eacute;e initiale  (ou premiers 500') :
+#### pendant la mont&eacute;e initiale  (ou premiers 800') :
 
- IMMEDIATEMENT
-
+IMMEDIATEMENT
+- exige des manœuvres très rapides du pilote
 - assiette piqu&eacute;e
-
 - r&eacute;ch-carb;  m&eacute;lange;  s&eacute;lecteur;
  &quot;primer&quot; v&eacute;rouill&eacute;;  mag BOTH
-
 - pompe d'essence &eacute;lectrique, si &eacute;quip&eacute;
-
 - vitesse de meilleur plan&eacute;
-
 - pleins volets
 
  SI LE TEMPS LE PERMET
@@ -187,17 +183,12 @@ apr&egrave;s avoir consid&eacute;r&eacute;   les facteurs suivants
 :
 
  - l'altitude
-
  - la finesse de l'avion
-
  - la longueur de la piste
-
  - la force du vent, si virage de 180&#161; et
-vent traversier, le       faire dans sa direction
-
+vent traversier, le faire dans sa direction
  - l'exp&eacute;rience du pilote en g&eacute;n&eacute;ral,
 et sur ce type d'avion en     particulier
-
 - &eacute;valuer ces facteurs de pr&eacute;f&eacute;rence
 au sol,  avant le d&eacute;collage
 
@@ -205,9 +196,8 @@ au sol,  avant le d&eacute;collage
 
 - importance de rester &agrave; distance plan&eacute;e
 (elle varie avec le vent)
-
 - selon la position de l'avion, possibilit&eacute;
-de choisir une piste    autre que celle en service
+de choisir une piste autre que celle en service
 
 #### en vol de croisi&egrave;re 
 *(lors de la 1ere d&eacute;mo, se placer &agrave; 3000' avec le      champ &agrave; proximit&eacute; &agrave; gauche) :*
@@ -291,30 +281,22 @@ de premiers soins, ...)
  7)  approche finale :
 
  - maintenir vitesse
-
  - contr&ocirc;le de la hauteur  (mouvement apparent
-du point de           contact choisi)
-
-  - volets
-
-  - virages en S   (inclinaison maximum de 30&#161;)
-
-  - glissades
-
- - arriver un peu plus haut que n&eacute;cessaire
+du point de contact choisi)
+   - volets
+   - virages en S   (inclinaison maximum de 30&#161;)
+   - glissades
+   - arriver un peu plus haut que n&eacute;cessaire
  (il est pr&eacute;f&eacute;rable     de heurter un obstacle apr&egrave;s
 l'atterrissage qu'avant)
-
  - pleins volets en courte finale
-
  - interrupteur principal coup&eacute;
 
  8)  atterrissage :
 
  - m&eacute;thode habituelle
-
- - ne PAS essayer de d&eacute;crocher intentionnellement
-au-     dessus de la surface, aussi inhospitali&egrave;re soit-elle
+ - ne JAMAIS essayer de d&eacute;crocher intentionnellement
+au-dessus de la surface, aussi inhospitali&egrave;re soit-elle
      (l'avion doit prendre contact avec le sol en vol        
    contr&ocirc;l&eacute;)
 
