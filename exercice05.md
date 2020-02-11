@@ -1,42 +1,30 @@
-<H1>Exercice 5: Assiettes et mouvements</H1>
-<P>
-<FONT FACE="Geneva">         </FONT><FONT SIZE=1 FACE="Geneva">Plans
-de le&ccedil;on:   1,   2,    --<BR>
-<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">D&eacute;finitions :</FONT><B><FONT FACE="Geneva">
-</FONT></B><FONT FACE="Geneva"> <B>assiette</B> : position de
-l'avion par rapport &agrave; la surface de la                
- terre.</FONT>
-<P>
-<FONT FACE="Geneva">   changement d'assiette :  <B>mouvement<BR>
-<BR>
-</B></FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Objectifs :</FONT><FONT FACE="Geneva">
- + <U>4 assiettes</U> (et leurs <U>limites</U> pour le pilotage
-normal)</FONT>
-<P>
-<FONT FACE="Geneva">   + <U>3 mouvements</U> de base</FONT>
-<P>
-<FONT FACE="Geneva">   + <U>production et dosage</U> de ces mouvements
-<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Motivation de l'&eacute;tudiant :</FONT>
-<P>
-<FONT FACE="Geneva"> Piloter un avion, c'est lui faire adopter
-diverses assiettes par des mouvements produits par le pilote.
-Cet exercice est &agrave; la <U>base</U> du pilotage.</FONT>
-<P>
-<FONT FACE="Geneva"> Un a&eacute;ronef est consid&eacute;r&eacute;
+# Exercice 5: Assiettes et mouvements
+
+Plans de leçon:   1,   2,    --
+
+## D&eacute;finitions :
+
+- **assiette** : position de l'avion par rapport &agrave; la surface de la terre.
+- changement d'assiette :  <B>mouvement
+ 
+ 
+## Objectifs :
+
+- 4 assiettes (et leurs limites pour le pilotage normal)
+- 3 mouvements de base
+- production et dosage de ces mouvements
+
+## Motivation de l'&eacute;tudiant :
+
+Piloter un avion, c'est lui faire adopter diverses assiettes par des mouvements produits par le pilote.
+Cet exercice est &agrave; la base du pilotage.</FONT>
+
+Un a&eacute;ronef est consid&eacute;r&eacute;
 comme &eacute;tant sous contr&ocirc;le, lorsque le pilote est
 capable d'&eacute;tablir &agrave; volont&eacute; une vitesse,
-une altitude et une direction de vol.  Le pilote s'informe de
-ces trois conditions primordiales de vol dans le cockpit &agrave;
+une altitude et une direction de vol.  
+
+Le pilote s'informe de ces trois conditions primordiales de vol dans le cockpit &agrave;
 l'aide de l'an&eacute;mom&egrave;tre, de l'altim&egrave;tre et
 d'un indicateur de cap.  Ensemble, ces trois instruments de vol
 les plus fondamentaux peuvent pr&eacute;senter au pilote les effets
@@ -57,11 +45,10 @@ les zones &agrave; haute densit&eacute; de traffic et il y a beaucoup
 de manoeuvres qui requi&egrave;rent une attention &agrave; l'ext&eacute;rieur
 &agrave; l'assiette de l'avion par rapport &agrave; l'horizon
 et de l'axe longitudinal de l'avion par rapport &agrave; des r&eacute;f&eacute;rences
-au sol.<BR>
-</FONT>
-<P>
-<B><FONT FACE="Geneva">[</FONT></B><FONT FACE="Geneva"> Un bon
-pilotage demande la coordinnation des trois contr&ocirc;les, mais
+au sol.
+
+[Un bon
+pilotage demande la coordination des trois contr&ocirc;les, mais
 dans cet exercice nous allons utiliser les contr&ocirc;les s&eacute;par&egrave;ment
 pour mieux se rendre compte de leur effet par rapport aux trois
 axes.  Les assiettes et les mouvements sont les <U>mots</U> qui
@@ -76,7 +63,9 @@ pas grand-chose,  en effet, ce sont les phrases compl&egrave;tes
 qui ont un sens bien d&eacute;fini.  C'est aussi pourquoi l'&eacute;l&egrave;ve
 n'aura pas &agrave; pratiquer sp&eacute;cifiquement une assiette
 ou un mouvement pris isol&egrave;ment, mais plut&ocirc;t au travers
-de manoeuvres.<B>]<BR>
+de manoeuvres.]
+
+<BR>
 <BR>
 </B></FONT>
 <P>
