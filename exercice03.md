@@ -1,6 +1,6 @@
 <H1 ALIGN=CENTER>Exercice 3: Commandes de servitudes</H1>
 
-<P><FONT SIZE=-1>Plans de leçons 1, 2, 3 </FONT></P>
+<FONT SIZE=-1>Plans de leçons 1, 2, 3 </P>
 
 <H2>Définition:</H2>
 
@@ -12,7 +12,7 @@ qui contribuent néanmoins à la sécurité et/ou
 
 <H2>Objectifs:</H2>
 
-<P>But et fonctionnement de : </P>
+But et fonctionnement de : </P>
 
 <UL>
 <LI><B>réchauffage carburateur</B> </LI>
@@ -40,13 +40,13 @@ de certains aérodromes situés à hautes altitudes.
 </LI>
 
 <LI>De plus, l'usage des commandes de servitude jouent un rôle dans
-l'exploitation de l'avion tant au point de vue confort que sécurité.<BR>
+l'exploitation de l'avion tant au point de vue confort que sécurité.
 </LI>
 </UL>
 
 <H2>Au sol:</H2>
 
-<P>Aides :</P>
+Aides :</P>
 
 <UL>
 <LI>manuel de l'avion 2-6 à 2-8; 3-2; POH 3-13; 4-16; 7-26 </LI>
@@ -60,11 +60,11 @@ l'exploitation de l'avion tant au point de vue confort que sécurité.<BR>
 </UL>
 </UL>
 
-<P><BR>
-Points à démontrer: <BR>
+
+Points à démontrer: 
 </P>
 
-<P><B>Réchauffage carburateur : </B><BR>
+<B>Réchauffage carburateur : </B>
 </P>
 
 <UL>
@@ -133,11 +133,11 @@ sup. à 75%) </LI>
 de la sonde </LI>
 
 <LI><B>usage par temps très froid </B>(< -20°C) pour faciliter
-la vaporisation de l'essence (consulter POH) <BR>
+la vaporisation de l'essence (consulter POH) 
 </LI>
 </UL>
 
-<P><B>Commande de richesse du mélange : </B><BR>
+<B>Commande de richesse du mélange : </B>
 </P>
 
 <UL>
@@ -238,12 +238,12 @@ température ambiante ou de l'application du réch carb) </LI>
 
 <LI>commandes et leur <B>usage </B></LI>
 
-<LI>interprétation des schémas dans le manuel de l'avion<BR>
+<LI>interprétation des schémas dans le manuel de l'avion
 </LI>
 </UL>
 
-<LI><B>Dispositifs de refroidissement moteur : volets de capot : <BR>
-Procédures </B>: <BR>
+<LI><B>Dispositifs de refroidissement moteur : volets de capot : 
+Procédures </B>: 
 </LI>
 
 <UL>
@@ -257,7 +257,7 @@ Procédures </B>: <BR>
 
 <LI>vérification : vérifier la <B>température des
 têtes de cylindres </B>( <B>CHT </B>) pour le réglage correct
-des volets de capot (et manuel de l'avion)<BR>
+des volets de capot (et manuel de l'avion)
 </LI>
 </UL>
 
@@ -322,29 +322,29 @@ des volets de capot (et manuel de l'avion)<BR>
 
 <H2>Questions:</H2>
 
-<P>Lorsqu'on utilise le réchauffage du carburateur : </P>
+Lorsqu'on utilise le réchauffage du carburateur : </P>
 
-<P>a) Effet sur indication du tachymètre ? <BR>
-b) Pourquoi cet effet se produira-t-il ? <BR>
-c) Changement dans le bruit du moteur ? <BR>
-d) Nouveau réglage de la commande de mélange ?<BR>
-<BR>
+a) Effet sur indication du tachymètre ? 
+b) Pourquoi cet effet se produira-t-il ? 
+c) Changement dans le bruit du moteur ? 
+d) Nouveau réglage de la commande de mélange ?
+
 Dans quelles limites de température de l'air extérieur, le
 givrage au carburateur peut-il se former si les conditions s'y prêtent
-? Pourquoi ?<BR>
-<BR>
+? Pourquoi ?
+
 Au cours des exercices de pilotage, quelle doit être la position
-de la commande de mélange ? Du réch-carb ? (voir POH)<BR>
-<BR>
-Quel est le but de la visite extérieure d'un avion ?<BR>
-<BR>
+de la commande de mélange ? Du réch-carb ? (voir POH)
+
+Quel est le but de la visite extérieure d'un avion ?
+
 Quelle sera la différence dans l'utilisation de la commande de mélange
 entre un aéronef ayant un moteur turbo et un autre avec un moteur
-à alimentation normale ? <BR>
-<BR>
+à alimentation normale ? 
+
 Pourquoi est-il déconseillé d'utiliser le réchauffage
 du carburateur à des régimes moteur supérieurs à
-75% ? (Détonation)<BR>
+75% ? (Détonation)
 </P>
 
 <H2>En vol:</H2>
@@ -393,25 +393,25 @@ les bougies <B>avant la vérification des magnétos </B></LI>
 </UL>
 
 <UL>
-<LI>maniement des <B>autres commandes </B>de servitudes , le cas échéant<BR>
+<LI>maniement des <B>autres commandes </B>de servitudes , le cas échéant
 </LI>
 </UL>
 
 <H2>Rapports d'accidents: </H2>
 
-<P>Rapports de faits aéronautiques vol. 6, pp. 107, 118, 132<BR>
+Rapports de faits aéronautiques vol. 6, pp. 107, 118, 132
 I learned about flying from that, p. 131, 135 </P>
 
 <H2>Références:</H2>
 
-<P>GIV 69 <BR>
-MP 52 <BR>
-Van Sickle 141-145; 307; 782 <BR>
-Inv. to Fly 81-85 <BR>
-AOPA Flt Training 4-38 à 4-46 <BR>
-Kershner SPFM 33-34; 39-40; 228-229; 257-258 <BR>
-Kershner APM 165-168; 193-195 <BR>
-Kershner FIM 39; 54 <BR>
-AIP AIR 2.4<BR>
-<BR>
+GIV 69 
+MP 52 
+Van Sickle 141-145; 307; 782 
+Inv. to Fly 81-85 
+AOPA Flt Training 4-38 à 4-46 
+Kershner SPFM 33-34; 39-40; 228-229; 257-258 
+Kershner APM 165-168; 193-195 
+Kershner FIM 39; 54 
+AIP AIR 2.4
+
 <HR>

@@ -17,7 +17,7 @@ Plans de leçon:   1,   2,    --
 ## Motivation de l'&eacute;tudiant :
 
 Piloter un avion, c'est lui faire adopter diverses assiettes par des mouvements produits par le pilote.
-Cet exercice est &agrave; la base du pilotage.</FONT>
+Cet exercice est &agrave; la base du pilotage.
 
 Un a&eacute;ronef est consid&eacute;r&eacute;
 comme &eacute;tant sous contr&ocirc;le, lorsque le pilote est
@@ -65,387 +65,387 @@ n'aura pas &agrave; pratiquer sp&eacute;cifiquement une assiette
 ou un mouvement pris isol&egrave;ment, mais plut&ocirc;t au travers
 de manoeuvres.]
 
-<BR>
-<BR>
-</B></FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">R&eacute;f&eacute;rences :</FONT><FONT FACE="Geneva">
-GIV 75</FONT>
-<P>
-<FONT FACE="Geneva">   MP 61</FONT>
-<P>
-<FONT FACE="Geneva">   S&amp;R 148-152;  176-180</FONT>
-<P>
-<FONT FACE="Geneva">   Inv. to Fly 38-41</FONT>
-<P>
-<FONT FACE="Geneva">   Van Sickle  387-391;  398</FONT>
-<P>
-<FONT FACE="Geneva">   AOPA Flt Training  4-2 &agrave; 4-16</FONT>
-<P>
-<FONT FACE="Geneva">   Kershner SPFM 53-56</FONT>
-<P>
-<FONT FACE="Geneva">   Kershner FIM  27; 31-32<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Au sol :</FONT>
-<P>
-<FONT FACE="Geneva">Aides : + maquette d'avion</FONT>
-<P>
-<FONT FACE="Geneva">  + Dessins : 4 assiettes, 3 mouvements, axes
-et plans<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">Points &agrave; d&eacute;montrer :</FONT>
-<P>
-<FONT FACE="Geneva"> <U>2 r&eacute;f&eacute;rences</U> :</FONT>
-<P>
-<FONT FACE="Geneva">  + ext&eacute;rieure principale : horizon
-</FONT>
-<P>
-<FONT FACE="Geneva">  +   sur l'avion : capot ou nez </FONT>
-<P>
-<FONT FACE="Geneva">      surface inf&eacute;rieure des ailes
-</FONT>
-<P>
-<FONT FACE="Geneva"> <U>4 assiettes</U> de base :</FONT>
-<P>
-<FONT FACE="Geneva">  + assiette de croisi&egrave;re  (assiette
-de r&eacute;f&eacute;rence)</FONT>
-<P>
-<FONT FACE="Geneva">  + assiettes en tangage :  (analogie avec
-le cheval...)</FONT>
-<P>
-<FONT FACE="Geneva">   + assiette cabr&eacute;e  (ne fait pas
-obligatoirement monter)</FONT>
-<P>
-<FONT FACE="Geneva">   + assiette piqu&eacute;e  (ne fait pas
-obligatoirement descendre)</FONT>
-<P>
-<FONT FACE="Geneva">  + assiette inclin&eacute;e</FONT>
-<P>
-<FONT FACE="Geneva"> <U>3 mouvements</U> :</FONT>
-<P>
-<FONT FACE="Geneva">  + dans le plan de tangage</FONT>
-<P>
-<FONT FACE="Geneva">   autour de l'<U>axe</U> transversal ou lat&eacute;ral</FONT>
-<P>
-<FONT FACE="Geneva">   <U>produit et dos&eacute;</U> par le pilote
-avec le manche </FONT>
-<P>
-<FONT FACE="Geneva">    (gouverne de profondeur :  contr&ocirc;le
-l'angle d'attaque)</FONT>
-<P>
-<FONT FACE="Geneva">   <U>mouvement en relation</U> au pilote</FONT>
-<P>
-<FONT FACE="Geneva">  + dans le plan de roulis</FONT>
-<P>
-<FONT FACE="Geneva">   autour de l'<U>axe</U> longitudinal</FONT>
-<P>
-<FONT FACE="Geneva">   <U>produit et dos&eacute;</U> par le pilote
-avec les ailerons</FONT>
-<P>
-<FONT FACE="Geneva">   <U>mouvement en relation</U> au pilote</FONT>
-<P>
-<FONT FACE="Geneva">  + dans le plan de lacet</FONT>
-<P>
-<FONT FACE="Geneva">   autour de l'<U>axe</U> normal</FONT>
-<P>
-<FONT FACE="Geneva">   <U>produit</U> par l'avion</FONT>
-<P>
-<FONT FACE="Geneva">   <U>dos&eacute;</U> par le pilote avec le
-palonnier</FONT>
-<P>
-<FONT FACE="Geneva">   <U>mouvement en relation</U> au pilote</FONT>
-<P>
-<FONT FACE="Geneva">   <U><B>d&eacute;sirable </B></U><B>:</B>
+
+
+</B>
+
+R&eacute;f&eacute;rences :
+GIV 75
+
+MP 61
+
+S&amp;R 148-152;  176-180
+
+Inv. to Fly 38-41
+
+Van Sickle  387-391;  398
+
+AOPA Flt Training  4-2 &agrave; 4-16
+
+Kershner SPFM 53-56
+
+Kershner FIM  27; 31-32
+
+
+
+Au sol :
+
+Aides : + maquette d'avion
+
++ Dessins : 4 assiettes, 3 mouvements, axes
+et plans
+
+
+Points &agrave; d&eacute;montrer :
+
+<U>2 r&eacute;f&eacute;rences</U> :
+
++ ext&eacute;rieure principale : horizon
+
+
++   sur l'avion : capot ou nez 
+
+surface inf&eacute;rieure des ailes
+
+
+<U>4 assiettes</U> de base :
+
++ assiette de croisi&egrave;re  (assiette
+de r&eacute;f&eacute;rence)
+
++ assiettes en tangage :  (analogie avec
+le cheval...)
+
++ assiette cabr&eacute;e  (ne fait pas
+obligatoirement monter)
+
++ assiette piqu&eacute;e  (ne fait pas
+obligatoirement descendre)
+
++ assiette inclin&eacute;e
+
+<U>3 mouvements</U> :
+
++ dans le plan de tangage
+
+autour de l'<U>axe</U> transversal ou lat&eacute;ral
+
+<U>produit et dos&eacute;</U> par le pilote
+avec le manche 
+
+(gouverne de profondeur :  contr&ocirc;le
+l'angle d'attaque)
+
+<U>mouvement en relation</U> au pilote
+
++ dans le plan de roulis
+
+autour de l'<U>axe</U> longitudinal
+
+<U>produit et dos&eacute;</U> par le pilote
+avec les ailerons
+
+<U>mouvement en relation</U> au pilote
+
++ dans le plan de lacet
+
+autour de l'<U>axe</U> normal
+
+<U>produit</U> par l'avion
+
+<U>dos&eacute;</U> par le pilote avec le
+palonnier
+
+<U>mouvement en relation</U> au pilote
+
+<U><B>d&eacute;sirable </B></U><B>:</B>
  induit par l'inclinaison lat&eacute;rale et  utilis&eacute; en
-     virage inclin&eacute;</FONT>
-<P>
-<FONT FACE="Geneva">   <U><B>ind&eacute;sirable </B></U><B>: </B>+<B>
-</B>souffle h&eacute;lico&iuml;dal</FONT>
-<P>
-<FONT FACE="Geneva">      + traction assym&eacute;trique</FONT>
-<P>
-<FONT FACE="Geneva">      + effet gyroscopique</FONT>
-<P>
-<FONT FACE="Geneva">      + effet de couple au sol</FONT>
-<P>
-<FONT FACE="Geneva">      + lacet inverse<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> Mouvement secondaire :  <U>roulis induit</U></FONT>
-<P>
-<FONT FACE="Geneva">  + lacet non contr&ocirc;l&eacute; peut engendrer
-un roulis<BR>
-<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Discipline a&eacute;ronautique :</FONT>
-<P>
-<FONT FACE="Geneva"> + il est important de d&eacute;velopper l'habitude
+     virage inclin&eacute;
+
+<U><B>ind&eacute;sirable </B></U><B>: </B>+<B>
+</B>souffle h&eacute;lico&iuml;dal
+
++ traction assym&eacute;trique
+
++ effet gyroscopique
+
++ effet de couple au sol
+
++ lacet inverse
+
+
+Mouvement secondaire :  <U>roulis induit</U>
+
++ lacet non contr&ocirc;l&eacute; peut engendrer
+un roulis
+
+
+
+
+Discipline a&eacute;ronautique :
+
++ il est important de d&eacute;velopper l'habitude
 de piloter en r&eacute;f&eacute;rence avec  l'horizon :  il faut
 donc regarder &agrave; l'ext&eacute;rieur pour observer l'assiette
 de  l'avion par rapport &agrave; l'horizon, pour s'orienter par
 rapport aux rep&egrave;res au  sol et AUSSI pour surveiller le
-traffic</FONT>
-<P>
-<FONT FACE="Geneva"> + respecter la m&eacute;thode de passation
+traffic
+
++ respecter la m&eacute;thode de passation
 des commandes pour &ecirc;tre bien  certain de la personne qui
-contr&ocirc;le</FONT>
-<P>
-<FONT FACE="Geneva"> + tenir les contr&ocirc;les l&eacute;g&egrave;rement
+contr&ocirc;le
+
++ tenir les contr&ocirc;les l&eacute;g&egrave;rement
 et effectuer des mouvements souples  et s&ucirc;rs. Occasionnellement,
 de grands mouvements des commandes  sont requis pour obtenir les
 r&eacute;sultats d&eacute;sir&eacute;s mais, aux vitesses de vol
  normales, il s'agit plut&ocirc;t de pressions fermes au lieu
-de mouvements.<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Questions :</FONT>
-<P>
-<FONT FACE="Geneva">Lorsqu'on se trouve au r&eacute;gime de croisi&egrave;re
+de mouvements.
+
+
+
+Questions :
+
+Lorsqu'on se trouve au r&eacute;gime de croisi&egrave;re
 quelle vitesse indiqu&eacute;e peut-on escompter dans le cas de
-l'avion que nous allons utiliser pour ce vol ?<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">Si, au cours d'un important changement de
+l'avion que nous allons utiliser pour ce vol ?
+
+
+Si, au cours d'un important changement de
 puissance, on laisse l'avion effectuer un mouvement de lacet il
-peut en r&eacute;sulter un mouvement de roulis.</FONT>
-<P>
-<FONT FACE="Geneva"> a) Pourquoi ?</FONT>
-<P>
-<FONT FACE="Geneva"> b) Comment emp&ecirc;cher le mouvement de
-lacet ?<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">Autour de quels axes sont centr&eacute;s les
-mouvements de tangage et de roulis ?<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">Quel mouvement doit-on effectuer pour obtenir
-une assiette inclin&eacute;e ?<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">Pourquoi le terme &#171;axe normal&#187; est-il
-pr&eacute;f&eacute;rable &agrave; &#171;axe vertical&#187; ?<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">En vol:</FONT>
-<P>
-<FONT FACE="Geneva">Equipement normal: horizon visible (10 mi.)</FONT>
-<P>
-<FONT FACE="Geneva">    plafond min. 3500'<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva">D&eacute;monstration:</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>r&eacute;f&eacute;rence ext&eacute;rieure</U>
-(pour garder un cap constant)<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>nommer</U> l'exercice</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>d&eacute;finir</U> l'exercice</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>motiver</U> l'&eacute;tudiant<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + <U><B>cl&eacute; :   r&eacute;f&eacute;rences</B></U><B>
-  </B>(horizon, capot et ailes)<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + assiette de r&eacute;f&eacute;rence : 
-<B>assiette de <U>croisi&egrave;re</U></B></FONT>
-<P>
-<FONT FACE="Geneva">  + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U></FONT>
-<P>
-<FONT FACE="Geneva">    _ hauteur du nez vs horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ semble parall&egrave;le &agrave; l'horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface d'une aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface de l'autre aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>instruments</U> (horizon artificiel,
-vitesse et son, altitude et RPM)</FONT>
-<P>
-<FONT FACE="Geneva"> + <B>assiette <U>cabr&eacute;e</U> :</B></FONT>
-<P>
-<FONT FACE="Geneva">  + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U></FONT>
-<P>
-<FONT FACE="Geneva">    _ hauteur du nez vs horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ semble parall&egrave;le &agrave; l'horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface d'une aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface de l'autre aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>instruments</U> (horizon artificiel,
-<U>vitesse</U> et son, altitude et RPM)</FONT>
-<P>
-<FONT FACE="Geneva">  + assiette davantage cabr&eacute;e ne fait
+peut en r&eacute;sulter un mouvement de roulis.
+
+a) Pourquoi ?
+
+b) Comment emp&ecirc;cher le mouvement de
+lacet ?
+
+
+Autour de quels axes sont centr&eacute;s les
+mouvements de tangage et de roulis ?
+
+
+Quel mouvement doit-on effectuer pour obtenir
+une assiette inclin&eacute;e ?
+
+
+Pourquoi le terme &#171;axe normal&#187; est-il
+pr&eacute;f&eacute;rable &agrave; &#171;axe vertical&#187; ?
+
+
+
+En vol:
+
+Equipement normal: horizon visible (10 mi.)
+
+plafond min. 3500'
+
+
+D&eacute;monstration:
+
++ <U>r&eacute;f&eacute;rence ext&eacute;rieure</U>
+(pour garder un cap constant)
+
+
++ <U>nommer</U> l'exercice
+
++ <U>d&eacute;finir</U> l'exercice
+
++ <U>motiver</U> l'&eacute;tudiant
+
+
++ <U><B>cl&eacute; :   r&eacute;f&eacute;rences</B></U><B>
+  </B>(horizon, capot et ailes)
+
+
++ assiette de r&eacute;f&eacute;rence : 
+<B>assiette de <U>croisi&egrave;re</U></B>
+
++ d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
+
+_ hauteur du nez vs horizon
+
+_ semble parall&egrave;le &agrave; l'horizon
+
+_ surface d'une aile vs horizon (2)
+
+_ surface de l'autre aile vs horizon (2)
+
++ <U>instruments</U> (horizon artificiel,
+vitesse et son, altitude et RPM)
+
++ <B>assiette <U>cabr&eacute;e</U> :</B>
+
++ d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
+
+_ hauteur du nez vs horizon
+
+_ semble parall&egrave;le &agrave; l'horizon
+
+_ surface d'une aile vs horizon (2)
+
+_ surface de l'autre aile vs horizon (2)
+
++ <U>instruments</U> (horizon artificiel,
+<U>vitesse</U> et son, altitude et RPM)
+
++ assiette davantage cabr&eacute;e ne fait
 pas toujours prendre de    l'altitude :  faire remarquer &agrave;
 nouveau les indications des    instruments en cabrant davantage
-&agrave; partir du vol lent  (altitude   diminue)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>plage</U> des assiettes normales  (revenir
+&agrave; partir du vol lent  (altitude   diminue)
+
++ <U>plage</U> des assiettes normales  (revenir
 &agrave; chaque fois &agrave; l'assiette      de croisi&egrave;re
-pour permettre la comparaison)</FONT>
-<P>
-<FONT FACE="Geneva">  </FONT>
-<P>
-<FONT FACE="Geneva"> + <B>assiette <U>piqu&eacute;e</U> :</B></FONT>
-<P>
-<FONT FACE="Geneva">  + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U></FONT>
-<P>
-<FONT FACE="Geneva">    _ hauteur du nez vs horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ semble parall&egrave;le &agrave; l'horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface d'une aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface de l'autre aile vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>instruments</U> (horizon artificiel,
-<U>vitesse</U> et son, altitude et RPM)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>plage</U> des assiettes normales  (revenir
+pour permettre la comparaison)
+
+
+
++ <B>assiette <U>piqu&eacute;e</U> :</B>
+
++ d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
+
+_ hauteur du nez vs horizon
+
+_ semble parall&egrave;le &agrave; l'horizon
+
+_ surface d'une aile vs horizon (2)
+
+_ surface de l'autre aile vs horizon (2)
+
++ <U>instruments</U> (horizon artificiel,
+<U>vitesse</U> et son, altitude et RPM)
+
++ <U>plage</U> des assiettes normales  (revenir
 &agrave; chaque fois &agrave; l'assiette      de croisi&egrave;re
-pour permettre la comparaison)</FONT>
-<P>
-<FONT FACE="Geneva">  + assiette piqu&eacute;e ne fait pas toujours
-descendre</FONT>
-<P>
-<FONT FACE="Geneva"> + <B>mouvement</B> de <U><B>tangage</B></U>
-:</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>nommer</U> en le montrant</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>d&eacute;finir</U> avec l'<U>axe
-lat&eacute;ral</U></FONT>
-<P>
-<FONT FACE="Geneva">   _ production avec le <U>manche</U> :</FONT>
-<P>
-<FONT FACE="Geneva">    expliquer pourquoi avec le <U>gouvernail
+pour permettre la comparaison)
+
++ assiette piqu&eacute;e ne fait pas toujours
+descendre
+
++ <B>mouvement</B> de <U><B>tangage</B></U>
+:
+
+_ le <U>nommer</U> en le montrant
+
+_ le <U>d&eacute;finir</U> avec l'<U>axe
+lat&eacute;ral</U>
+
+_ production avec le <U>manche</U> :
+
+expliquer pourquoi avec le <U>gouvernail
 de profondeur</U>      (c'est le &#171;contr&ocirc;le d'angle
-d'attaque&#187;)</FONT>
-<P>
-<FONT FACE="Geneva">   _ <U>mouvement</U> par rapport au pilote</FONT>
-<P>
-<FONT FACE="Geneva">   _ importance du mouvement &agrave; effectuer
+d'attaque&#187;)
+
+_ <U>mouvement</U> par rapport au pilote
+
+_ importance du mouvement &agrave; effectuer
 sur le manche pour    obtenir une assiette donn&eacute;e inversement
-proportionnelle &agrave;    la vitesse de l'avion</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>pratique de l'&eacute;tudiant</U> &agrave;
-partir de l'assiette de croisi&egrave;re<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + <B>assiette <U>inclin&eacute;e</U> :</B></FONT>
-<P>
-<FONT FACE="Geneva">  + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U></FONT>
-<P>
-<FONT FACE="Geneva">    _ hauteur du nez vs horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ fait un angle avec l'horizon</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface de l'aile basse vs horizon (1)</FONT>
-<P>
-<FONT FACE="Geneva">    _ surface de l'aile haute vs horizon (2)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>instruments</U> (horizon artificiel,
-conservateur de cap)</FONT>
-<P>
-<FONT FACE="Geneva">  + <U>plage</U> des assiettes normales  (revenir
+proportionnelle &agrave;    la vitesse de l'avion
+
++ <U>pratique de l'&eacute;tudiant</U> &agrave;
+partir de l'assiette de croisi&egrave;re
+
+
++ <B>assiette <U>inclin&eacute;e</U> :</B>
+
++ d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
+
+_ hauteur du nez vs horizon
+
+_ fait un angle avec l'horizon
+
+_ surface de l'aile basse vs horizon (1)
+
+_ surface de l'aile haute vs horizon (2)
+
++ <U>instruments</U> (horizon artificiel,
+conservateur de cap)
+
++ <U>plage</U> des assiettes normales  (revenir
 &agrave; chaque fois &agrave; l'assiette      de croisi&egrave;re
-pour permettre la comparaison)</FONT>
-<P>
-<FONT FACE="Geneva"> + mouvement de <U><B>roulis</B></U><B> </B>:</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>nommer</U> en le montrant</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>d&eacute;finir</U> avec l'<U>axe
-longitudinal</U></FONT>
-<P>
-<FONT FACE="Geneva">   _ production avec le <U>manche :</U></FONT>
-<P>
-<FONT FACE="Geneva">    expliquer pourquoi avec les <U>ailerons</U></FONT>
-<P>
-<FONT FACE="Geneva">   _ <U>mouvement</U> par rapport au pilote</FONT>
-<P>
-<FONT FACE="Geneva">   _ importance du mouvement &agrave; effectuer
+pour permettre la comparaison)
+
++ mouvement de <U><B>roulis</B></U><B> </B>:
+
+_ le <U>nommer</U> en le montrant
+
+_ le <U>d&eacute;finir</U> avec l'<U>axe
+longitudinal</U>
+
+_ production avec le <U>manche :</U>
+
+expliquer pourquoi avec les <U>ailerons</U>
+
+_ <U>mouvement</U> par rapport au pilote
+
+_ importance du mouvement &agrave; effectuer
 sur le manche pour    obtenir une assiette donn&eacute;e inversement
-proportionnelle &agrave;    la vitesse de l'avion</FONT>
-<P>
-<FONT FACE="Geneva"> + <U>pratique de l'&eacute;tudiant</U> &agrave;
-partir de l'assiette de croisi&egrave;re<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + montrer <U>combinaisons d'assiettes et
-de mouvements<BR>
-</U></FONT>
-<P>
-<FONT FACE="Geneva"> + mouvement de <U><B>lacet d&eacute;sirable</B></U><B>
-</B>:</FONT>
-<P>
-<FONT FACE="Geneva">  incliner l&eacute;g&egrave;rement l'avion
-et l&acirc;cher les commandes</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>nommer</U> en le montrant</FONT>
-<P>
-<FONT FACE="Geneva">   _ <U>relation du mouvement </U>avec le
-pilote</FONT>
-<P>
-<FONT FACE="Geneva">   _ le <U>d&eacute;finir</U> avec l'<U>axe
-normal</U></FONT>
-<P>
-<FONT FACE="Geneva">   _ <U>production naturelle par l'avion</U>
-:</FONT>
-<P>
-<FONT FACE="Geneva">    expliquer pourquoi, avec la <U>glissade
-et l'empennage</U></FONT>
-<P>
-<FONT FACE="Geneva">   _ montrer comment le <U>doser</U> avec
-les p&eacute;dales</FONT>
-<P>
-<FONT FACE="Geneva">   _ efficacit&eacute; du palonnier d&eacute;pend
+proportionnelle &agrave;    la vitesse de l'avion
+
++ <U>pratique de l'&eacute;tudiant</U> &agrave;
+partir de l'assiette de croisi&egrave;re
+
+
++ montrer <U>combinaisons d'assiettes et
+de mouvements
+</U>
+
++ mouvement de <U><B>lacet d&eacute;sirable</B></U><B>
+</B>:
+
+incliner l&eacute;g&egrave;rement l'avion
+et l&acirc;cher les commandes
+
+_ le <U>nommer</U> en le montrant
+
+_ <U>relation du mouvement </U>avec le
+pilote
+
+_ le <U>d&eacute;finir</U> avec l'<U>axe
+normal</U>
+
+_ <U>production naturelle par l'avion</U>
+:
+
+expliquer pourquoi, avec la <U>glissade
+et l'empennage</U>
+
+_ montrer comment le <U>doser</U> avec
+les p&eacute;dales
+
+_ efficacit&eacute; du palonnier d&eacute;pend
 de la vitesse de l'avion ET    du souffle h&eacute;lico&iuml;dal
-<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + mouvements de <U><B>lacet ind&eacute;sirable</B></U>
-(vol non-coordonn&eacute;) :</FONT>
-<P>
-<FONT FACE="Geneva">  montrer quelques exemples et comment contr&ocirc;ler</FONT>
-<P>
-<FONT FACE="Geneva">   _ souffle h&eacute;lico&iuml;dal</FONT>
-<P>
-<FONT FACE="Geneva">   _ traction assym&eacute;trique</FONT>
-<P>
-<FONT FACE="Geneva">   _ effet gyroscopique</FONT>
-<P>
-<FONT FACE="Geneva">   _ lacet inverse<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> + d&eacute;montrer le <U><B>roulis induit</B></U>
-par un lacet non contr&ocirc;l&eacute;<BR>
-<BR>
-</FONT>
-<P>
-<FONT SIZE=4 FACE="Geneva">Rapports d'accident :</FONT>
-<P>
-<FONT FACE="Geneva"> Rapports de faits a&eacute;ronautiques, vol.
-6<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> Aviation Safety's Flying Circus, 2/ed.<BR>
-</FONT>
-<P>
-<FONT FACE="Geneva"> I learned about flying from that<BR>
-<BR>
-</FONT>
+
+
+
++ mouvements de <U><B>lacet ind&eacute;sirable</B></U>
+(vol non-coordonn&eacute;) :
+
+montrer quelques exemples et comment contr&ocirc;ler
+
+_ souffle h&eacute;lico&iuml;dal
+
+_ traction assym&eacute;trique
+
+_ effet gyroscopique
+
+_ lacet inverse
+
+
++ d&eacute;montrer le <U><B>roulis induit</B></U>
+par un lacet non contr&ocirc;l&eacute;
+
+
+
+Rapports d'accident :
+
+Rapports de faits a&eacute;ronautiques, vol.
+6
+
+
+Aviation Safety's Flying Circus, 2/ed.
+
+
+I learned about flying from that
+
+

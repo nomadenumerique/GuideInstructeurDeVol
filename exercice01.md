@@ -49,14 +49,14 @@ Equipement : normal
 - **comment** regarder : 
   - regarder un secteur de 10° à 15°, faire une pause de 1 à 2 secondes, puis passer au secteur voisin,
 et NON un balayage continu du regard. 
-  - Regarder tous les secteurs (10 à 12 secteurs, 2 sec. chaque = 20 sec. total) en jetant un coup d'oeil au
+  - regarder tous les secteurs (10 à 12 secteurs, 2 sec. chaque = 20 sec. total) en jetant un coup d'oeil au
 D.G. et altimètre (2 à 3 sec.). A tous les 10 cycles, vérifier aussi les autres instruments (moteur, alternateur,....). Aussi, déplacer
 la tête pour contourner les obstructions structurelles. 
-  - Maintenir regard focalisé sur l'infini en regardant au sol ou nuage distant (et garder le pare-brise propre)
+  - maintenir regard focalisé sur l'infini en regardant au sol ou nuage distant (et garder le pare-brise propre)
 - **où** regarder : 
-  - avions sur l'horizon sont à notre altitude, en haut de l'horizon ils sont plus hauts, et en bas plus bas
+  - avions *sur* l'horizon sont à notre altitude, *en haut* de l'horizon ils sont plus hauts, et en bas plus bas
 - **quoi** regarder : 
-  - avions paraissant demeurer stationnaires sont sur une trajectoire de collision (ce sont aussi les plus difficiles à
+  - avions paraissant demeurer *stationnaires* sont sur une *trajectoire de collision* (ce sont aussi les plus difficiles à
 remarquer du fait de leur immobilité) 
 - acquérir une bonne technique de surveillance extérieure demande de l'entraînement, et surtout de la concentration. 
 - «the **bowl effect**» (au lieu d'essayer d'estimer distance

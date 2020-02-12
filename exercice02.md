@@ -1,6 +1,6 @@
 <H1 ALIGN=CENTER>Exercice 2: Connaissance de l'avion et préparation du vol</H1>
 
-<P><FONT SIZE=-1>Plans de leçons 1, 2, 3 </FONT></P>
+Plans de leçons 1, 2, 3
 
 <H2>
 Définition:</H2>
@@ -37,7 +37,7 @@ l'avion) </LI>
 <H2>Motivation:</H2>
 
 <UL>
-<P>Une bonne préparation avant le vol est l'étape qui assure
+Une bonne préparation avant le vol est l'étape qui assure
 le mieux (et le plus facilement) un vol sécuritaire et une mission
 bien accomplie, en évitant au pilote des situations embarrassantes
 ou même dangereuses. La vérification de la validité
@@ -74,10 +74,10 @@ de vent traversier" </LI>
 </UL>
 
 <UL>
-<LI>Points à démontrer: <BR>
+<LI>Points à démontrer: 
 </LI>
 
-<P><B>Préparation personnelle :</B> </P>
+<B>Préparation personnelle :</B> </P>
 
 <UL>
 <LI>bonne forme physique (sommeil, fatigue, alimentation, stress, oxygène,
@@ -98,7 +98,7 @@ exercice) </LI>
 </LI>
 </UL>
 
-<P><B>Météo et NOTAMs :</B> </P>
+<B>Météo et NOTAMs :</B> </P>
 
 <UL>
 <LI><B>météo </B>(vérifier en général,
@@ -108,7 +108,7 @@ propices au givrage du carburateur) </LI>
 <LI>NOTAMs </LI>
 </UL>
 
-<P><B>Documents :</B> </P>
+<B>Documents :</B> </P>
 
 <UL>
 <LI>fonctionnment de la <B>répartition </B></LI>
@@ -147,7 +147,7 @@ plus loin) </LI>
 </UL>
 </UL>
 
-<P><B>Carte de navigation :</B> </P>
+<B>Carte de navigation :</B> </P>
 
 <UL>
 <LI>points de repère </LI>
@@ -155,7 +155,7 @@ plus loin) </LI>
 <LI>zone d'entraînement </LI>
 </UL>
 
-<P><B>Manuel d'utilisation de l'avion (POH) :</B> </P>
+<B>Manuel d'utilisation de l'avion (POH) :</B> </P>
 
 <UL>
 <LI>revue générale (dont inspection pré-vol et listes
@@ -168,7 +168,7 @@ consommation moyenne à puissance moyenne </LI>
 </LI>
 </UL>
 
-<P><B>Poids et centrage :</B> </P>
+<B>Poids et centrage :</B> </P>
 
 <UL>
 <LI>PMA au décollage et à l'atterrissage </LI>
@@ -176,7 +176,7 @@ consommation moyenne à puissance moyenne </LI>
 <LI>influence sur les caractéristiques de vol </LI>
 </UL>
 
-<P><B>Principaux éléments de l'avion :</B> <BR>
+<B>Principaux éléments de l'avion :</B> 
 Aides : </P>
 
 <UL>
@@ -185,7 +185,7 @@ Aides : </P>
 <LI>Manuel de l'avion ou POH (listes de vérification) </LI>
 </UL>
 
-<P>Points à démontrer : </P>
+Points à démontrer : </P>
 
 <UL>
 <LI><B>inspection extérieure</B> (terminologie, but et manière
@@ -241,7 +241,7 @@ bloc a été bien effectué, et ainsi de suite </LI>
 <H2>En vol: </H2>
 
 <UL>
-<P>Non applicable </P>
+Non applicable </P>
 </UL>
 
 <H2>Questions: </H2>
@@ -254,27 +254,27 @@ faire les vérifications et la préparation du vol. </LI>
 <H2>Rapports d'accident:</H2>
 
 <UL>
-<P>Rapports de faits aéronautiques, vol. 6, p. 39, 69, 106, 111,
-115, 131, 143 <BR>
+Rapports de faits aéronautiques, vol. 6, p. 39, 69, 106, 111,
+115, 131, 143 
 Aviation Safety's Flying Circus, 2/ed., p. 30,36,38, 42, 54, 59, 83, 144,
-151, 158, 176, 189, 190, 194, 195 <BR>
-I learned about flying from that, p. 15, 20, 24, 177 <BR>
+151, 158, 176, 189, 190, 194, 195 
+I learned about flying from that, p. 15, 20, 24, 177 
 </P>
 </UL>
 
 <H2>Références:</H2>
 
 <UL>
-<P>GIV 65 <BR>
-MP 46 <BR>
-Inv. to Fly 63-94; 97-127; 129-151; 153-175 <BR>
-Van Sickle 377-387 <BR>
-Ann. FAA Test Stds 3-25; 40-55; 56-63 <BR>
-AOPA Flt Training 1-1 à 1-10; 2-1 à 2-24 <BR>
-Kershner SPFM 11-30; 31-37 <BR>
-Kershner APM 238-242 <BR>
-Kershner FIM 28-29, 36 <BR>
-AIP LRA 2.5, ann. C-3, ann. B 1-2 <BR>
-AIR 1.2, 1.4, 2.2.1, 3.0 (renseignements médicaux) <BR>
+GIV 65 
+MP 46 
+Inv. to Fly 63-94; 97-127; 129-151; 153-175 
+Van Sickle 377-387 
+Ann. FAA Test Stds 3-25; 40-55; 56-63 
+AOPA Flt Training 1-1 à 1-10; 2-1 à 2-24 
+Kershner SPFM 11-30; 31-37 
+Kershner APM 238-242 
+Kershner FIM 28-29, 36 
+AIP LRA 2.5, ann. C-3, ann. B 1-2 
+AIR 1.2, 1.4, 2.2.1, 3.0 (renseignements médicaux) 
 </P>
 </UL>
