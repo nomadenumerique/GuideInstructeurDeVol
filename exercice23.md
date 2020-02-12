@@ -1,6 +1,6 @@
-<center>
-<h1>
-Exercice 23:  Navigation du pilote</h1></center>
+
+
+# Exercice 23:  Navigation du pilote</h1></center>
 
         Plans de le&ccedil;ons   24, 26, 27
 
@@ -18,7 +18,7 @@ Objectifs: + pr&eacute;paration du vol-voyage
 
 
 
-## Motivation : L'exercice de navigation en solo fait
+## Motivation : L'# Exercice de navigation en solo fait
 appel &agrave; l'int&eacute;gration des techniques de base de
 pilotage (mont&eacute;es, virages, vol en palier rectiligne, atterrissage,
 etc.) et des proc&eacute;dures de base (circuits, atterrissages

@@ -1,6 +1,6 @@
-<h1>Exercice 11: Vol lent</h1>
+# Exercice 11: Vol lent</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+Plans
 de le&ccedil;ons   4,   5,   6
 
 
@@ -72,9 +72,9 @@ Points &agrave; d&eacute;montrer :
 
 + <U>courbe de portance</U>
 
-R<FONT SIZE=1 FACE="Geneva">z
- =  C<FONT SIZE=1 FACE="Geneva">z
-. 1/2<I>p </I>V<FONT SIZE=1 FACE="Geneva">2
+Rz
+ =  Cz
+. 1/2<I>p </I>V2
 . S
 
 + courbe de tra&icirc;n&eacute;e
@@ -125,7 +125,7 @@ l'altitude
 + diminution de la <U>r&eacute;action des
 commandes</U>
 
-+ courbe &quot;vitesse, C<FONT SIZE=1 FACE="Geneva">z
++ courbe &quot;vitesse, Cz
 et angle d'attaque&quot; :
 
 le mouvement de tangage doit s'acc&eacute;l&eacute;rer
@@ -307,7 +307,7 @@ Premi&egrave;re partie :
 
 1) vol rectiligne :
 
-+ rappel :   cet exercice en est un de pr&eacute;vention
++ rappel :   cet # Exercice en est un de pr&eacute;vention
 et n'est pas une     manoeuvre normale ayant une application pratique
 
 + s&eacute;curit&eacute; : _ v&eacute;rifications
@@ -389,7 +389,7 @@ maximale
 Normes de v&eacute;rification en vol
 :
 
-Exercice  (au d&eacute;but d&eacute;montrer
+# Exercice  (au d&eacute;but d&eacute;montrer
 et laisser pratiquer une partie &agrave; la fois) :
 
 _ configuration d'autonomie maximale

@@ -1,4 +1,4 @@
-# Exercice 5: Assiettes et mouvements
+# # Exercice 5: Assiettes et mouvements
 
 Plans de leçon:   1,   2,    --
 
@@ -17,7 +17,7 @@ Plans de leçon:   1,   2,    --
 ## Motivation de l'&eacute;tudiant :
 
 Piloter un avion, c'est lui faire adopter diverses assiettes par des mouvements produits par le pilote.
-Cet exercice est &agrave; la base du pilotage.
+Cet # Exercice est &agrave; la base du pilotage.
 
 Un a&eacute;ronef est consid&eacute;r&eacute;
 comme &eacute;tant sous contr&ocirc;le, lorsque le pilote est
@@ -49,7 +49,7 @@ au sol.
 
 [Un bon
 pilotage demande la coordination des trois contr&ocirc;les, mais
-dans cet exercice nous allons utiliser les contr&ocirc;les s&eacute;par&egrave;ment
+dans cet # Exercice nous allons utiliser les contr&ocirc;les s&eacute;par&egrave;ment
 pour mieux se rendre compte de leur effet par rapport aux trois
 axes.  Les assiettes et les mouvements sont les <U>mots</U> qui
 <U>composent les phrases du pilotage</U>, et ce sont les phrases
@@ -57,7 +57,7 @@ axes.  Les assiettes et les mouvements sont les <U>mots</U> qui
 des assiettes et mouvements a comme but <U>unique</U> l'acquisition
 d'un <U>vocabulaire de base</U>, n&eacute;cessaire &agrave; l'apprentissage
 des manoeuvres ult&eacute;rieures. Il pourra sembler &agrave;
-l'&eacute;tudiant que cet exercice n'a pas d'utilit&eacute; claire
+l'&eacute;tudiant que cet # Exercice n'a pas d'utilit&eacute; claire
 :  les &quot;mots&quot; pris s&eacute;par&egrave;ment ne disent
 pas grand-chose,  en effet, ce sont les phrases compl&egrave;tes
 qui ont un sens bien d&eacute;fini.  C'est aussi pourquoi l'&eacute;l&egrave;ve

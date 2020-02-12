@@ -1,7 +1,7 @@
-<h1>
-Exercice 9: Virages</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+# Exercice 9: Virages</h1>
+
+Plans
 de le&ccedil;ons   2,  3,  4
 
 
@@ -193,8 +193,8 @@ du c&ocirc;t&eacute; oppos&eacute;
 + <U>erreur de l'horizon artificiel</U> &agrave;
 la sortie
 
-+ f  =   mv<FONT SIZE=1 FACE="Geneva">2/r
-   a =  v<FONT SIZE=1 FACE="Geneva">2/r
++ f  =   mv2/r
+   a =  v2/r
 
 
 si portance &lt; f ;  GLISSADE
@@ -412,7 +412,7 @@ _ ailerons dans le virage
 Normes de v&eacute;rification en vol
 :
 
-Exercice  :
+# Exercice  :
 
 (1) d&eacute;part &agrave; 4000' AGL
 
@@ -435,7 +435,7 @@ gauche, &agrave; droite, jusqu'&agrave; 5000'
 &agrave; droite, jusqu'&agrave; 4000'
 
 
-Exercice :  figure 5-5  dans Kershner FIM
+# Exercice :  figure 5-5  dans Kershner FIM
 
 
 

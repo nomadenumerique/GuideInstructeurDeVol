@@ -1,64 +1,64 @@
-<H1 ALIGN=CENTER>Exercice 3: Commandes de servitudes</H1>
+# Exercice 3: Commandes de servitudes
 
 <FONT SIZE=-1>Plans de leçons 1, 2, 3 </P>
 
 <H2>Définition:</H2>
 
-<UL>
-<LI>commandes qui ne sont pas des contrôles primaires de vol, mais
+
+- commandes qui ne sont pas des contrôles primaires de vol, mais
 qui contribuent néanmoins à la sécurité et/ou
-à l'efficacité du pilotage d'un avion.</LI>
-</UL>
+à l'efficacité du pilotage d'un avion.
+
 
 <H2>Objectifs:</H2>
 
 But et fonctionnement de : </P>
 
-<UL>
-<LI><B>réchauffage carburateur</B> </LI>
 
-<LI>commande de richesse du <B>mélange </B></LI>
+- <B>réchauffage carburateur</B> 
 
-<LI><B>désembuage </B>du pare-brise, <B>chauffage </B>de cabine
-et <B>aérateurs </B></LI>
+- commande de richesse du <B>mélange </B>
 
-<LI><B>autres </B>commandes de servitudes, s'il y a lieu (volets de capot,
-etc)</LI>
-</UL>
+- <B>désembuage </B>du pare-brise, <B>chauffage </B>de cabine
+et <B>aérateurs </B>
+
+- <B>autres </B>commandes de servitudes, s'il y a lieu (volets de capot,
+etc)
+
 
 <H2>Motivation:</H2>
 
-<UL>
-<LI>La détection et la correction de la situation dangereuse que
-créée la présence de givre dans le carburateur est
-essentielle à la conduite sécuritaire de l'avion. </LI>
 
-<LI>L'habileté à se servir correctement de la commande de
+- La détection et la correction de la situation dangereuse que
+créée la présence de givre dans le carburateur est
+essentielle à la conduite sécuritaire de l'avion. 
+
+- L'habileté à se servir correctement de la commande de
 richesse du mélange est récompensé par une économie
 de carburant, ou même par la possibilité de décoller
 de certains aérodromes situés à hautes altitudes.
-</LI>
 
-<LI>De plus, l'usage des commandes de servitude jouent un rôle dans
+
+- De plus, l'usage des commandes de servitude jouent un rôle dans
 l'exploitation de l'avion tant au point de vue confort que sécurité.
-</LI>
-</UL>
+
+
 
 <H2>Au sol:</H2>
 
 Aides :</P>
 
-<UL>
-<LI>manuel de l'avion 2-6 à 2-8; 3-2; POH 3-13; 4-16; 7-26 </LI>
 
-<LI>remettre à l'étudiant:</LI>
+- manuel de l'avion 2-6 à 2-8; 3-2; POH 3-13; 4-16; 7-26 
 
-<UL>
-<LI>carte bleue "givrage du carb" </LI>
+- remettre à l'étudiant:
 
-<LI>"comment appauvrir..." (TP5266)</LI>
-</UL>
-</UL>
+
+- carte bleue "givrage du carb" 
+
+- "comment appauvrir..." (TP5266)
+
+
 
 
 Points à démontrer: 
@@ -67,258 +67,258 @@ Points à démontrer:
 <B>Réchauffage carburateur : </B>
 </P>
 
-<UL>
-<LI><B>causes du givrage </B>: </LI>
 
-<LI>vaporisation du carburant (absorption de chaleur latente) </LI>
+- <B>causes du givrage </B>: 
 
-<LI>dilatation de l'air dans venturi </LI>
+- vaporisation du carburant (absorption de chaleur latente) 
 
-<LI>air assez humide, accumulation de glace autour du papillon, réduction
+- dilatation de l'air dans venturi 
+
+- air assez humide, accumulation de glace autour du papillon, réduction
 de l'admission d'air, donc réduction de la puissance par enrichissement
 excessif du mélange et diminution de la quantité de mélange
-</LI>
 
-<LI><B>conditions </B>de température ambiante, d'humidité
+
+- <B>conditions </B>de température ambiante, d'humidité
 (point de rosée) et de régime moteur les plus et les moins
-critiques </LI>
+critiques 
 
-<LI><B>symptômes </B>de givrage de carburateur:: (baisse graduelle
+- <B>symptômes </B>de givrage de carburateur:: (baisse graduelle
 ou subite de R.P.M. ou de la pression d'admission et à-coups du
-moteur) </LI>
+moteur) 
 
-<LI>principe du réchauffage : <B>source de l'air chaud </B></LI>
+- principe du réchauffage : <B>source de l'air chaud </B>
 
-<LI>importance d'une <B>détection précoce </B>du phénomène
+- importance d'une <B>détection précoce </B>du phénomène
 (l'utilisation préventive est beaucoup plus efficace que l'utilisation
-corrective) </LI>
+corrective) 
 
-<LI>technique de <B>prévention </B>et d'élimination du givrage
-(consulter POH) : </LI>
+- technique de <B>prévention </B>et d'élimination du givrage
+(consulter POH) : 
 
-<LI>si présence des conditions critiques (vol dans les nuages,...)
+- si présence des conditions critiques (vol dans les nuages,...)
 , appliquer préventivement plein réchauffage jusqu'à
-sortie de ces conditions </LI>
+sortie de ces conditions 
 
-<LI>si légère baisse de RPM ou de pression d'admission, ne
+- si légère baisse de RPM ou de pression d'admission, ne
 pas augmenter la puissance, mais tirer réch-carb à fond pendant
-une minute : ï si à</LI>
+une minute : ï si à
 
-<LI>coups, baisse de régime suivie de hausse, il y avait de la glace
-et il faudra faire des vérifications plus fréquentes </LI>
+- coups, baisse de régime suivie de hausse, il y avait de la glace
+et il faudra faire des vérifications plus fréquentes 
 
-<LI>en cas de panne subite, tirer immédiatement à fond le
-réch</LI>
+- en cas de panne subite, tirer immédiatement à fond le
+réch
 
-<LI>carb pour profiter de ce que les tubulures d'échappement soient
+- carb pour profiter de ce que les tubulures d'échappement soient
 encore chaudes (voir liste de vérification en cas d'atterrissage
-forcé) </LI>
+forcé) 
 
-<LI><B>influence sur le mélange </B>air</LI>
+- <B>influence sur le mélange </B>air
 
-<LI>essence (encrassage des bougies et usage du mélange) </LI>
+- essence (encrassage des bougies et usage du mélange) 
 
-<LI>nécessité de maintenir la température du moteur
-pendant une descente prolongée </LI>
+- nécessité de maintenir la température du moteur
+pendant une descente prolongée 
 
-<LI><B>réactions du moteur </B></LI>
+- <B>réactions du moteur </B>
 
-<LI>risque de causer le givrage par l' <B>application partielle ou inutile
-</B>du réchauffage carb </LI>
+- risque de causer le givrage par l' <B>application partielle ou inutile
+</B>du réchauffage carb 
 
-<LI>risque de causer de la <B>détonation </B>(lorsque puissance
-sup. à 75%) </LI>
+- risque de causer de la <B>détonation </B>(lorsque puissance
+sup. à 75%) 
 
-<LI><B>indicateur de température de carburateur </B>et emplacement
-de la sonde </LI>
+- <B>indicateur de température de carburateur </B>et emplacement
+de la sonde 
 
-<LI><B>usage par temps très froid </B>(< -20°C) pour faciliter
+- <B>usage par temps très froid </B>(< -20°C) pour faciliter
 la vaporisation de l'essence (consulter POH) 
-</LI>
-</UL>
+
+
 
 <B>Commande de richesse du mélange : </B>
 </P>
 
-<UL>
-<LI>manette des gaz : contrôle la quantité de mélange
-carburé (actionne le papillon) </LI>
 
-<LI>fonctions de la commande de richesse du mélange : </LI>
+- manette des gaz : contrôle la quantité de mélange
+carburé (actionne le papillon) 
 
-<UL>
-<LI>appauvrir le mélange pour utiliser le carburant le plus efficacement
-possible </LI>
+- fonctions de la commande de richesse du mélange : 
 
-<LI>couper l'alimentation en carburant et éteindre le moteur sans
-laisser d'essence dans les cylindres </LI>
 
-<LI>importance d'un mélange air-essence bien proportionné
-(15 lbs d'air pour 1 lb d'essence) </LI>
-</UL>
-</UL>
+- appauvrir le mélange pour utiliser le carburant le plus efficacement
+possible 
 
-<UL>
-<LI><B>si le mélange est trop pauvre : </B></LI>
+- couper l'alimentation en carburant et éteindre le moteur sans
+laisser d'essence dans les cylindres 
 
-<UL>
-<LI><B>puissance </B>diminuée </LI>
+- importance d'un mélange air-essence bien proportionné
+(15 lbs d'air pour 1 lb d'essence) 
 
-<LI><B>surchauffe </B>des cylindres et pistons pouvant causer une panne
-</LI>
 
-<LI><B>détonation </B></LI>
 
-<LI>moteur a des ratés si le rapport air/essence devient supérieur
-à 22 lbs d'air pour 1 lb d'essence </LI>
-</UL>
-</UL>
 
-<UL>
-<LI><B>si le mélange est trop riche :</B></LI>
+- <B>si le mélange est trop pauvre : </B>
 
-<UL>
-<LI>conséquences <B>moins graves </B>qu'avec un mélange trop
-pauvre </LI>
 
-<LI><B>puissance </B>diminuée </LI>
+- <B>puissance </B>diminuée 
 
-<LI><B>refroidissement </B>excessif (en descente) </LI>
+- <B>surchauffe </B>des cylindres et pistons pouvant causer une panne
 
-<LI><B>distance franchissable </B>inférieure à celle publiée
-dans POH (consommation d'essence excessive) </LI>
 
-<LI>encrassement des <B>bougies </B></LI>
+- <B>détonation </B>
 
-<LI>moteur a des ratés si le rapport air/essence devient inférieur
-à 7 lbs d'air pour 1 lb d'essence </LI>
-</UL>
-</UL>
+- moteur a des ratés si le rapport air/essence devient supérieur
+à 22 lbs d'air pour 1 lb d'essence 
 
-<UL>
-<LI><B>conditions extérieures </B>affectant le rapport air/essence
-: </LI>
 
-<UL>
-<LI>température de l'air admis dans les cylindres (effets de la
-température ambiante ou de l'application du réch carb) </LI>
 
-<LI>densité </LI>
 
-<LI>humidité </LI>
-</UL>
-</UL>
+- <B>si le mélange est trop riche :</B>
 
-<UL>
-<LI><B>réglage </B>de la commande de mélange (voir POH) :</LI>
 
-<UL>
-<LI>au décollage </LI>
+- conséquences <B>moins graves </B>qu'avec un mélange trop
+pauvre 
 
-<LI>en montée </LI>
+- <B>puissance </B>diminuée 
 
-<LI>en descente </LI>
+- <B>refroidissement </B>excessif (en descente) 
 
-<LI>en croisière : méthode de réglage selon RPM (hélice
-à pas fixe) </LI>
+- <B>distance franchissable </B>inférieure à celle publiée
+dans POH (consommation d'essence excessive) 
 
-<LI>selon EGT </LI>
+- encrassement des <B>bougies </B>
 
-<LI>selon l'indicateur de débit de carburant ("<I>fuel flowmeter
-</I>") </LI>
-</UL>
-</UL>
+- moteur a des ratés si le rapport air/essence devient inférieur
+à 7 lbs d'air pour 1 lb d'essence 
 
-<UL>
-<LI><B>Désembuage du pare-brise, chauffage de cabine et aérateurs
-</B></LI>
 
-<UL>
-<LI><B>sources </B>de l'air chaud </LI>
 
-<LI>commandes et leur <B>usage </B></LI>
 
-<LI>interprétation des schémas dans le manuel de l'avion
-</LI>
-</UL>
+- <B>conditions extérieures </B>affectant le rapport air/essence
+: 
 
-<LI><B>Dispositifs de refroidissement moteur : volets de capot : 
+
+- température de l'air admis dans les cylindres (effets de la
+température ambiante ou de l'application du réch carb) 
+
+- densité 
+
+- humidité 
+
+
+
+
+- <B>réglage </B>de la commande de mélange (voir POH) :
+
+
+- au décollage 
+
+- en montée 
+
+- en descente 
+
+- en croisière : méthode de réglage selon RPM (hélice
+à pas fixe) 
+
+- selon EGT 
+
+- selon l'indicateur de débit de carburant ("<I>fuel flowmeter
+</I>") 
+
+
+
+
+- <B>Désembuage du pare-brise, chauffage de cabine et aérateurs
+</B>
+
+
+- <B>sources </B>de l'air chaud 
+
+- commandes et leur <B>usage </B>
+
+- interprétation des schémas dans le manuel de l'avion
+
+
+
+- <B>Dispositifs de refroidissement moteur : volets de capot : 
 Procédures </B>: 
-</LI>
 
-<UL>
-<LI>toujours ouverts au sol (sauf par temps très froid) </LI>
 
-<LI>en montée. </LI>
 
-<LI>partiellement ouverts en croisière. </LI>
+- toujours ouverts au sol (sauf par temps très froid) 
 
-<LI>fermés en approche </LI>
+- en montée. 
 
-<LI>vérification : vérifier la <B>température des
+- partiellement ouverts en croisière. 
+
+- fermés en approche 
+
+- vérification : vérifier la <B>température des
 têtes de cylindres </B>( <B>CHT </B>) pour le réglage correct
 des volets de capot (et manuel de l'avion)
-</LI>
-</UL>
 
-<LI><B>Eclairage : </B></LI>
 
-<UL>
-<LI>feux anticollision </LI>
 
-<LI>feux stroboscopiques </LI>
+- <B>Eclairage : </B>
 
-<LI>feux de navigation </LI>
 
-<LI>feux de circulation et d'atterrissage </LI>
+- feux anticollision 
 
-<LI>éclairage du poste de pilotage </LI>
+- feux stroboscopiques 
 
-<LI>éclairage d'instruments et radio </LI>
+- feux de navigation 
 
-<LI>éclairage pour passagers (intérieur et extérieur)</LI>
-</UL>
-</UL>
+- feux de circulation et d'atterrissage 
 
-<UL>
-<LI><B>Dispositifs anti-glace : </B></LI>
+- éclairage du poste de pilotage 
 
-<UL>
-<LI>hélices </LI>
+- éclairage d'instruments et radio 
 
-<LI>vitres </LI>
+- éclairage pour passagers (intérieur et extérieur)
 
-<LI>ailes et coques </LI>
 
-<LI>pitot</LI>
-</UL>
-</UL>
 
-<UL>
-<LI><B>Oxygène et pressurisation : </B></LI>
 
-<UL>
-<LI>ANO applicables </LI>
+- <B>Dispositifs anti-glace : </B>
 
-<LI>références médicales </LI>
 
-<LI>usage normal </LI>
+- hélices 
 
-<LI>urgences (voir exercice 31) </LI>
+- vitres 
 
-<LI>dépressurisation volontaire (voir exercice 31) </LI>
+- ailes et coques 
 
-<LI>descente d'urgence</LI>
-</UL>
-</UL>
+- pitot
 
-<UL>
-<LI><B>Autres : </B></LI>
 
-<UL>
-<LI>au besoin selon l'appareil et la mission </LI>
-</UL>
-</UL>
+
+
+- <B>Oxygène et pressurisation : </B>
+
+
+- ANO applicables 
+
+- références médicales 
+
+- usage normal 
+
+- urgences (voir # Exercice 31) 
+
+- dépressurisation volontaire (voir # Exercice 31) 
+
+- descente d'urgence
+
+
+
+
+- <B>Autres : </B>
+
+
+- au besoin selon l'appareil et la mission 
+
+
 
 <H2>Questions:</H2>
 
@@ -349,53 +349,53 @@ du carburateur à des régimes moteur supérieurs à
 
 <H2>En vol:</H2>
 
-<UL>
-<LI><B>point fixe </B>: </LI>
 
-<UL>
-<LI>éviter <B>poussières </B>lorsque réch-carb utilisé
-(air n'est plus filtré) </LI>
+- <B>point fixe </B>: 
 
-<LI>essai de la commande de <B>mélange </B>pour décrasser
-les bougies <B>avant la vérification des magnétos </B></LI>
-</UL>
-</UL>
 
-<UL>
-<LI><B>décollage et montée </B>: </LI>
+- éviter <B>poussières </B>lorsque réch-carb utilisé
+(air n'est plus filtré) 
 
-<UL>
-<LI>application des recommendations du manufacturier </LI>
+- essai de la commande de <B>mélange </B>pour décrasser
+les bougies <B>avant la vérification des magnétos </B>
 
-<LI>appauvrissement du mélange selon altitude (voir POH) </LI>
-</UL>
-</UL>
 
-<UL>
-<LI>vol de <B>croisière </B>: </LI>
 
-<UL>
-<LI>effet du réch-carb sur RPM ou p.a. </LI>
 
-<LI>utilisation correcte de la commande de mélange (selon POH) </LI>
-</UL>
-</UL>
+- <B>décollage et montée </B>: 
 
-<UL>
-<LI><B>descente </B>: </LI>
 
-<UL>
-<LI>application du réch-carb avant la réduction de puissance
-</LI>
+- application des recommendations du manufacturier 
 
-<LI>enrichissement du mélange avec la diminution d'altitude </LI>
-</UL>
-</UL>
+- appauvrissement du mélange selon altitude (voir POH) 
 
-<UL>
-<LI>maniement des <B>autres commandes </B>de servitudes , le cas échéant
-</LI>
-</UL>
+
+
+
+- vol de <B>croisière </B>: 
+
+
+- effet du réch-carb sur RPM ou p.a. 
+
+- utilisation correcte de la commande de mélange (selon POH) 
+
+
+
+
+- <B>descente </B>: 
+
+
+- application du réch-carb avant la réduction de puissance
+
+
+- enrichissement du mélange avec la diminution d'altitude 
+
+
+
+
+- maniement des <B>autres commandes </B>de servitudes , le cas échéant
+
+
 
 <H2>Rapports d'accidents: </H2>
 

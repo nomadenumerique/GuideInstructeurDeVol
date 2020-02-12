@@ -1,6 +1,6 @@
-<center>
-<h1>
-Exercice 21: Approches de pr&eacute;caution</h1></center>
+
+
+# Exercice 21: Approches de pr&eacute;caution</h1></center>
 
 Plans de le&ccedil;ons 22, 24, 25
 
@@ -29,7 +29,7 @@ sur une surface non   am&eacute;nag&eacute;e ou inconnue
 
 
 
-## Motivation : Cet exercice va am&eacute;liorer le
+## Motivation : Cet # Exercice va am&eacute;liorer le
 jugement du pilote concernant la d&eacute;cision d'interrompre
 un vol et d'effectuer une approche de pr&eacute;caution.  Un atterrissage
 de pr&eacute;caution fait plus appel au jugement qu'&agrave; une

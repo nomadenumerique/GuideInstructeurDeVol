@@ -1,6 +1,6 @@
-<h1>Exercice 8: Descente</h1>
+# Exercice 8: Descente</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+Plans
 de le&ccedil;ons    2,   3,   4
 
 
@@ -211,7 +211,7 @@ max)
 _ augmentation de la pente
 
 _ changement d'assiette (sh&eacute;ma
-C<FONT SIZE=1 FACE="Geneva">L
+CL
 vs &aring;)
 
 + effet de la sortie du <U>train escamotable</U>
@@ -470,7 +470,7 @@ max)
 _ augmentation de la pente
 
 _ changement d'assiette (sh&eacute;ma
-C<FONT SIZE=1 FACE="Geneva">L
+CL
 vs &aring;)
 
 + influence du <U>vent</U> sur la pente
@@ -511,7 +511,7 @@ vitesses</U>
 Normes de v&eacute;rification en vol
 :
 
-Exercice  :
+# Exercice  :
 
 (1) d&eacute;part &agrave; 4000' AGL
 

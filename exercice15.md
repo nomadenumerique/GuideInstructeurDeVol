@@ -1,7 +1,7 @@
-<h1>
-Exercice 15: Glissades</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+# Exercice 15: Glissades</h1>
+
+Plans
 de le&ccedil;ons    6,   7,   8
 
 
@@ -244,7 +244,7 @@ Erreurs courantes pendant les glissades lat&eacute;rales
 - comme ci-haut (a&eacute;rodynamiquement,
 c'est la <U>m&ecirc;me</U> manoeuvre)
 
-- aussi,  voir exercice 18 &#171;atterrissages
+- aussi,  voir # Exercice 18 &#171;atterrissages
 par vent de travers&#187;
 
 

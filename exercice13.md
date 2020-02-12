@@ -1,7 +1,7 @@
-<h1>
-Exercice 13: Vrilles</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+# Exercice 13: Vrilles</h1>
+
+Plans
 de le&ccedil;ons   5,   6,   7
 
 
@@ -21,7 +21,7 @@ Objectifs :
 
 ## Motivation :
  25 % des accidents mortels sont d&ucirc;s &agrave; un d&eacute;crochage
-ou &agrave; une vrille. Cet exercice en est un de pr&eacute;vention,
+ou &agrave; une vrille. Cet # Exercice en est un de pr&eacute;vention,
 qui permettra au pilote de reconna&icirc;tre l'approche de la
 vrille et la manoeuvre de rattrapage, ainsi que les conditions
 de vol propices &agrave; une mise en vrille accidentelle.

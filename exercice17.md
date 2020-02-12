@@ -1,6 +1,6 @@
-<center><h1>Exercice 17: Le circuit</h1></CENTER>
+# Exercice 17: Le circuit</h1></CENTER>
 
-<FONT SIZE=1 FACE="Geneva">Plans de le&ccedil;ons 2,  8,  9
+Plans de le&ccedil;ons 2,  8,  9
 
 
 
@@ -284,7 +284,7 @@ a&eacute;ronefs
 
 _ turbulence de sillage
 
-_ remise des gaz  (voir exercice 18)
+_ remise des gaz  (voir # Exercice 18)
 
 _ proc&eacute;dures radio
 

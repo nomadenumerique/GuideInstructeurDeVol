@@ -1,4 +1,4 @@
-# Exercice 22:  Atterrissages forc&eacute;s
+# # Exercice 22:  Atterrissages forc&eacute;s
 
 **Plans de le&ccedil;ons  7, 22, 24**
 
@@ -18,11 +18,11 @@ panne moteur survient
 Les faibles vitesses d'atterrissage
 des avions l&eacute;gers permettent de r&eacute;duire la gravit&eacute;
 d'un atterrissage forc&eacute;, m&ecirc;me sur un terrain relativement
-petit.  Cet exercice n'introduit pas de nouvelles techniques de
+petit.  Cet # Exercice n'introduit pas de nouvelles techniques de
 pilotage comme telles, mais demande plut&ocirc;t l'application
 de ce que l'&eacute;l&egrave;ve sait d&eacute;j&agrave;, en prenant
 des d&eacute;cisions assez rapidement et en agissant positivement
-sans h&eacute;sitation. La r&eacute;ussite de cet exercice donnera
+sans h&eacute;sitation. La r&eacute;ussite de cet # Exercice donnera
 l'assurance &agrave; l'&eacute;l&egrave;ve qu'il pourra poser
 l'avion avec un minimum de &quot;casse&quot; en cas de panne moteur.
 
@@ -46,7 +46,7 @@ l'avion avec un minimum de &quot;casse&quot; en cas de panne moteur.
 3-13 &agrave; 3-14
 
 ### Points &agrave; d&eacute;montrer :
-- revoir exercice 8  (Descentes)
+- revoir # Exercice 8  (Descentes)
 - contr&ocirc;le de ses &eacute;motions et de l'avion:
   - acceptation de la r&eacute;alit&eacute; de l'urgence
 et garder une pens&eacute;e    logique et rationnelle (pas de
@@ -283,7 +283,7 @@ de panne moteur ou  la gravit&eacute; d'une panne :
   - visite pr&eacute;-vol minutieusement compl&eacute;t&eacute;e
   - choix d'une route survolant des terrains appropri&eacute;s &agrave; un atterrissage forc&eacute;
 
-- feu moteur  (voir exercice 31)
+- feu moteur  (voir # Exercice 31)
 
 R&eacute;capitulation :
 

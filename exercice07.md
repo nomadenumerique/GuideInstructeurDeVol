@@ -1,7 +1,7 @@
-<h1>
-Exercice 7: Mont&eacute;e</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+# Exercice 7: Mont&eacute;e</h1>
+
+Plans
 de le&ccedil;ons    2,   3,   4
 
 
@@ -505,7 +505,7 @@ vitesses
 Normes de v&eacute;rification en vol
 :
 
-Exercice  :
+# Exercice  :
 
 (1) d&eacute;part &agrave; 4000' AGL
 

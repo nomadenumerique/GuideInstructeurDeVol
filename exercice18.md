@@ -1,6 +1,6 @@
-<center><h1>Exercice 18: Approche et atterrissage</h1></CENTER>
+# Exercice 18: Approche et atterrissage</h1></CENTER>
 
-<FONT SIZE=1 FACE="Geneva">Plans de le&ccedil;ons 3, 4, 7
+Plans de le&ccedil;ons 3, 4, 7
 
 
 
@@ -98,11 +98,11 @@ poids (&eacute;nergie cin&eacute;tique)
 - ajouter 4% /1000' d'alt-densit&eacute;
 (1000' d'alt-press; 8.5&#176;C)
 
-- Ek =  mV<FONT SIZE=1 FACE="Geneva">2
+- Ek =  mV2
 /2
 
-roulage (en pi) =  0.225 V<FONT SIZE=1 FACE="Geneva">2
-(mph)   ou   0.3 V<FONT SIZE=1 FACE="Geneva">2
+roulage (en pi) =  0.225 V2
+(mph)   ou   0.3 V2
 (kts)  
 
 - directement proportionnelle au poids
@@ -125,7 +125,7 @@ herbe, mouill&eacute;e, enneig&eacute;e, glac&eacute;e)
 - mauvaise technique du pilote : vit. excessive,
 <U>freinage</U> excessif
 
-+ revoir exercice 8  (Descentes)
++ revoir # Exercice 8  (Descentes)
 
 + d&eacute;termination du genre d'<B>approche</B>
 &agrave; effectuer :

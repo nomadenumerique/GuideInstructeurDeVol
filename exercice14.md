@@ -1,20 +1,20 @@
-<h1>
-Exercice 14: Piqu&eacute;s
+
+# Exercice 14: Piqu&eacute;s
 en spirale</h1>
 
 <DT><FONT SIZE=-2>Plans de le&ccedil;ons 6, 7, --</DT>
 
 <DT><FONT SIZE=+1>D&eacute;finition :&nbsp;</DT>
 
-<UL>
+
 <DT>virage tr&egrave;s inclin&eacute;, en descente
 , l'avion adoptant une forte assiette de piqu&eacute; et la vitesse augmentant
 rapidement. Ce n'est pas une manoeuvre utile ou normale.</DT>
-</UL>
+
 
 <DT><FONT SIZE=+1>Objectifs :&nbsp;</DT>
 
-<UL>
+
 <DT>+ conditions qui peuvent donner lieu &agrave; un
 piqu&eacute; en spirale&nbsp;</DT>
 
@@ -22,11 +22,11 @@ piqu&eacute; en spirale&nbsp;</DT>
 en spirale proprement dit&nbsp;</DT>
 
 <DT>+ manoeuvre de rattrapage correcte</DT>
-</UL>
+
 
 <DT><FONT SIZE=+1>## Motivation :&nbsp;</DT>
 
-<UL>
+
 <DT>La vitesse augmentant rapidement dans un piqu&eacute;
 en spirale, il est &eacute;vident que pour &eacute;viter des dommages &agrave;
 la structure de l'avion dus &agrave; une vitesse ou &agrave; des facteurs
@@ -34,11 +34,11 @@ de charges excessifs, il faut conna&icirc;tre la manoeuvre de rattrapage
 correcte et l'appliquer promptement. Il importe aussi de savoir bien diff&eacute;rencier
 une vrille d'une spirale, car les m&eacute;thodes de sortie pour chacune
 d'elles sont diff&eacute;rentes.&nbsp;</DT>
-</UL>
+
 
 <DT><FONT SIZE=+1>R&eacute;f&eacute;rences :</DT>
 
-<UL>
+
 <DT>GIV 109&nbsp;</DT>
 
 <DT>MP 98&nbsp;</DT>
@@ -56,14 +56,14 @@ d'elles sont diff&eacute;rentes.&nbsp;</DT>
 <DT>Kershner APM 139&nbsp;</DT>
 
 <DT>Kershner FIM 127-130; 203-205</DT>
-</UL>
+
 
 <DT><FONT SIZE=+1>Au sol :</DT>
 
-<UL>
+
 <DT>Aides :&nbsp;</DT>
 
-<UL>
+
 <DT>+ maquette d'avion&nbsp;</DT>
 
 <DT>+ Manuel de l'avion 3-6&nbsp;</DT>
@@ -71,15 +71,15 @@ d'elles sont diff&eacute;rentes.&nbsp;</DT>
 <DT>POH 2-3; 3-12</DT>
 
 <DT>&nbsp;</DT>
-</UL>
+
 
 <DT>Points &agrave; d&eacute;montrer :&nbsp;</DT>
 
-<UL>
+
 <DT>+ m&eacute;canisme de l'instabilit&eacute; en spirale
 (cas extr&ecirc;me) :&nbsp;</DT>
 
-<UL>
+
 <DT>- stabilit&eacute; lat&eacute;rale (en roulis)
 insuffisante: glissade assez prolong&eacute;e&nbsp;</DT>
 
@@ -92,11 +92,11 @@ mesure que l'inclinaison augmente, la composante verticale de la portance
 diminue et l'avion pique pour augmenter sa vitesse&nbsp;</DT>
 
 <DT>&nbsp;</DT>
-</UL>
+
 
 <DT>+ s&eacute;curit&eacute; :&nbsp;</DT>
 
-<UL>
+
 <DT>_ altitude minimale (sortie compl&eacute;t&eacute;e
 &agrave; 2000'AGL)&nbsp;</DT>
 
@@ -108,11 +108,11 @@ avec carte)&nbsp;</DT>
 <DT>_ surveillance ext&eacute;rieure&nbsp;</DT>
 
 <DT>&nbsp;</DT>
-</UL>
+
 
 <DT>+ description et indications des instruments&nbsp;</DT>
 
-<UL>
+
 <DT>_ inclinaison lat&eacute;rale excessive&nbsp;</DT>
 
 <DT>_ vitesse augmentant de fa&ccedil;on rapide (son
@@ -121,11 +121,11 @@ du vent et du moteur)&nbsp;</DT>
 <DT>_ taux de descente augmentant de fa&ccedil;on rapide&nbsp;</DT>
 
 <DT>&nbsp;</DT>
-</UL>
+
 
 <DT>+ causes :&nbsp;</DT>
-</UL>
-</UL>
+
+
 
 <DT>_ essai pr&eacute;matur&eacute; de mise en vrille&nbsp;</DT>
 

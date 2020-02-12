@@ -1,6 +1,6 @@
-<H1>Exercice 12: D&eacute;crochages</H1>
+# Exercice 12: D&eacute;crochages</H1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+Plans
 de le&ccedil;ons    4,    5,   6 
 
 

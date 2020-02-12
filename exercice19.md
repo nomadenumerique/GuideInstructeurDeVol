@@ -1,9 +1,9 @@
-<h1><center>
-Exercice 19: Le l&acirc;cher</h1></center>
+
+# Exercice 19: Le l&acirc;cher</h1></center>
 
 <FONT SIZE=5 FACE="Geneva">      (premier vol en solo)
 
-<FONT SIZE=1 FACE="Geneva">Plan
+Plan
 de le&ccedil;on 11, 11, 11
 
 

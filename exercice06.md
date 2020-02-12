@@ -1,6 +1,6 @@
 # Exercice 6: Vol rectiligne en palier
 
-<FONT SIZE=1 FACE="Geneva">Plans
+Plans
 de le&ccedil;ons    2,   3,   4
 
 
@@ -554,13 +554,13 @@ Normes de v&eacute;rification en vol
 :
 
 
-Exercice 1 :
+# Exercice 1 :
 
 2-3 min. vol rect. en palier, vir. 180&#176;,
 2-3 min. en palier  (en profiter      pour s'orienter dans la
 zone d'entra&icirc;nement)
 
-Exercice 2 :
+# Exercice 2 :
 
 (1) d&eacute;part &agrave; 4000' AGL
 

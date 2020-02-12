@@ -72,12 +72,12 @@ Décrochages</TD></TR>
 Vrilles</TD></TR>
 <TR><TD>
 <A HREF="Exercice14.htm"><FONT FACE= "verdana", "helvetica", "arial">
-Exercice 14</A>: 
+# Exercice 14</A>: 
 </TD><TD><FONT FACE= "verdana", "helvetica", "arial">
 Piqués en spirale</TD></TR>
 <TR><TD>
 <A HREF="Exercice15.htm"><FONT FACE= "verdana", "helvetica", "arial">
-Exercice 15</A>: 
+# Exercice 15</A>: 
 </TD><TD><FONT FACE= "verdana", "helvetica", "arial">
 Glissades</TD></TR>
 <TR><TD><FONT FACE= "verdana", "helvetica", "arial">

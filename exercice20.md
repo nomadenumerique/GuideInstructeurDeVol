@@ -1,5 +1,5 @@
-<center><h1>
-Exercice 20:  Illusions dues &agrave; la d&eacute;rive - vol &agrave; basse altitude</h1></center>
+
+# Exercice 20:  Illusions dues &agrave; la d&eacute;rive - vol &agrave; basse altitude</h1></center>
 
  Plans de le&ccedil;ons 22, 24,  -
 
@@ -37,7 +37,7 @@ la d&eacute;rive
 &eacute;viter les dangers du vol &agrave; basse altitude (illusions
 d&#158;es &agrave; la d&eacute;rive et obstacles), en gardant
 un vol coordonn&eacute; sans avoir &agrave; garder la t&#144;te
-dans le cockpit. Cet exercice sera particuli&egrave;rement utile
+dans le cockpit. Cet # Exercice sera particuli&egrave;rement utile
 lors d'une approche de pr&eacute;caution, d'un circuit en VFR
 sp&eacute;cial  (alt. inf.), ...
 
@@ -272,7 +272,7 @@ qu'&agrave; gauche
 
 ______________________________________________________
 
-Exercice 20 :  Illusions dues &agrave; la d&eacute;rive
+# Exercice 20 :  Illusions dues &agrave; la d&eacute;rive
 -
 
  vol &agrave; basse altitude page &#02;/5

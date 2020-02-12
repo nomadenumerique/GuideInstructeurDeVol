@@ -1,7 +1,7 @@
-<H1>
-Exercice 16: D&eacute;collage</H1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+# Exercice 16: D&eacute;collage</H1>
+
+Plans
 de le&ccedil;ons   3,   4,   5
 
 
@@ -432,7 +432,7 @@ et rentrer les volets
 _ sur terrain mou <B>ou</B> accident&eacute;
  :
 
-- l'exercice est termin&eacute; lorsqu'&eacute;tabli
+- l'# Exercice est termin&eacute; lorsqu'&eacute;tabli
 en mont&eacute;e normale
 
 - on suppose que l'aire de point fixe a

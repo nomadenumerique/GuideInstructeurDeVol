@@ -1,5 +1,5 @@
-<center><h1>
-Exercice 24: Vol aux instruments</h1></center>
+
+# Exercice 24: Vol aux instruments</h1></center>
 
 
         Les quatre derniers plans de le&ccedil;ons
@@ -1069,7 +1069,7 @@ Contr&ocirc;le de l'a&eacute;ronef
 
 
 
-Voir GIV Exercice 24
+Voir GIV # Exercice 24
 
 Contr&ocirc;le de l'assiette et de la puissance, puis confirmation
 de la performance en interpr&eacute;tant les instruments de performance,

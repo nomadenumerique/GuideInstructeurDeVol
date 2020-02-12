@@ -1,8 +1,8 @@
-<h1>
-Exercice 10: Distance
+
+# Exercice 10: Distance
 franchissable et autonomie maximales</h1>
 
-<FONT SIZE=1 FACE="Geneva">Plans
+Plans
 de le&ccedil;ons   3,   4,   5
 
 
