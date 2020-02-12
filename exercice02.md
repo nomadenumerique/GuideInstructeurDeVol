@@ -1,7 +1,6 @@
 <H1 ALIGN=CENTER>Exercice 2: Connaissance de l'avion et préparation du vol</H1>
 
 Plans de leçons 1, 2, 3
-
 <H2>
 Définition:</H2>
 

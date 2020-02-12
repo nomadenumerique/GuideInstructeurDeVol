@@ -6,7 +6,6 @@ Exercice 24: Vol aux instruments</h1></center>
 
 
 
-
 D&eacute;finition : contr&ocirc;le de l'assiette
 de l'appareil lorsque l'horizon naturel   a disparu et navigation
 lorsque les rep&egrave;res au sol sont absents.
