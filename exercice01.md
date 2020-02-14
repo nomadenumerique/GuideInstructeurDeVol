@@ -72,11 +72,13 @@ horizontale, estimer **degrés en bas de l'horizon**)
 
 *Note sur l'importance que l'étudiant soit détendu et reste détendu pour qu'il ait un pilotage "distrait":*
 ```
-«C'est sans doute la plus importante caractéristique mentale d'un bon pilote, que d'avoir son attention toujours dispersée,
-également répartie, et même vagabondant - jamais concentrée sur une chose unique . Voilà peut-être pourquoi on avait l'habitude
-de dire que les très bons pilotes étaient plutôt stupides, ou en tous cas, pas trop cérébraux, et qu'une personne trop
-intellectuelle faisait un pilote médiocre. En effet, cette dernière a l'habitude de porter toute son attention sur une seule chose à
-la fois en excluant toutes les autres et de rester concentrée sur cette chose jusqu'à ce qu'elle soit résolue, finie ou faite.»
+«C'est sans doute la plus importante caractéristique mentale d'un bon pilote, 
+que d'avoir son attention toujours dispersée, également répartie, et même vagabondant 
+- jamais concentrée sur une chose unique . Voilà peut-être pourquoi on avait l'habitude
+de dire que les très bons pilotes étaient plutôt stupides, ou en tous cas, pas trop cérébraux, 
+et qu'une personne trop intellectuelle faisait un pilote médiocre. En effet, cette dernière a 
+l'habitude de porter toute son attention sur une seule chose à la fois en excluant toutes les 
+autres et de rester concentrée sur cette chose jusqu'à ce qu'elle soit résolue, finie ou faite.»
 ```
 W. Langewiesche, *Stick and Rudder*, McGraw-Hill, New York, 1944, p.238
 
