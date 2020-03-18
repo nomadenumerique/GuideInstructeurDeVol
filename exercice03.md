@@ -30,17 +30,16 @@ But et fonctionnement de :
   - vaporisation du carburant (absorption de chaleur latente) 
   - dilatation de l'air dans venturi 
   - air assez humide, accumulation de glace autour du papillon, réduction de l'admission d'air, donc réduction de la puissance par enrichissement excessif du mélange et diminution de la quantité de mélange
-- **conditions **de température ambiante, d'humidité (point de rosée) et de régime moteur les plus et les moins critiques 
-- **symptômes **de givrage de carburateur:: (baisse graduelle ou subite de R.P.M. ou de la pression d'admission et à-coups du moteur) 
+- **conditions** de température ambiante, d'humidité (point de rosée) et de régime moteur les plus et les moins critiques 
+- **symptômes** de givrage de carburateur:: (baisse graduelle ou subite de R.P.M. ou de la pression d'admission et à-coups du moteur) 
 - principe du réchauffage : **source de l'air chaud**
-- importance d'une **détection précoce **du phénomène
+- importance d'une **détection précoce** du phénomène
 (l'utilisation préventive est beaucoup plus efficace que l'utilisation corrective) 
-- technique de **prévention **et d'élimination du givrage
-(consulter POH) : 
+- technique de **prévention** et d'élimination du givrage (consulter POH) : 
   - si présence des conditions critiques (vol dans les nuages,...), appliquer préventivement plein réchauffage jusqu'à sortie de ces conditions 
   - si légère baisse de RPM ou de pression d'admission, ne pas augmenter la puissance, mais tirer réch-carb à fond pendant une minute : 
     - si à-coups, baisse de régime suivie de hausse, il y avait de la glace et il faudra faire des vérifications plus fréquentes 
-- en cas de panne subite, tirer immédiatement à fond le réch-carb pour profiter de ce que les tubulures d'échappement soient encore chaudes (voir liste de vérification en cas d'atterrissage forcé) 
+  - en cas de panne subite, tirer immédiatement à fond le réch-carb pour profiter de ce que les tubulures d'échappement soient encore chaudes (voir liste de vérification en cas d'atterrissage forcé) 
 - **influence sur le mélange** air-essence (encrassage des bougies et usage du mélange) 
 - nécessité de maintenir la température du moteur pendant une descente prolongée 
 - **réactions du moteur**
@@ -86,7 +85,7 @@ But et fonctionnement de :
 - commandes et leur **usage**
 - interprétation des schémas dans le manuel de l'avion
 
-#### **Dispositifs de refroidissement moteur : volets de capot : 
+#### **Dispositifs de refroidissement moteur : volets de capot :** 
 - **Procédures**: 
   - toujours ouverts 
     - au sol (sauf par temps très froid) 
@@ -123,10 +122,10 @@ But et fonctionnement de :
 
 ## Questions:
 Lorsqu'on utilise le réchauffage du carburateur :
-a. Effet sur indication du tachymètre ? 
-b. Pourquoi cet effet se produira-t-il ? 
-c. Changement dans le bruit du moteur ? 
-d. Nouveau réglage de la commande de mélange ?
+1. Effet sur indication du tachymètre ? 
+2. Pourquoi cet effet se produira-t-il ? 
+3. Changement dans le bruit du moteur ? 
+4. Nouveau réglage de la commande de mélange ?
 
 Dans quelles limites de température de l'air extérieur, le givrage au carburateur peut-il se former si les conditions s'y prêtent ? Pourquoi ?
 
@@ -140,8 +139,8 @@ Pourquoi est-il déconseillé d'utiliser le réchauffage du carburateur à des r
 
 ## En vol:
 - **point fixe**: 
-  - éviter **poussières **lorsque réch-carb utilisé (air n'est plus filtré) 
-  - essai de la commande de **mélange **pour décrasser les bougies **avant la vérification des magnétos**
+  - éviter **poussières** lorsque réch-carb utilisé (air n'est plus filtré) 
+  - essai de la commande de **mélange** pour décrasser les bougies **avant la vérification des magnétos**
 - **décollage et montée**: 
   - application des recommendations du manufacturier 
   - appauvrissement du mélange selon altitude (voir POH) 
@@ -151,7 +150,7 @@ Pourquoi est-il déconseillé d'utiliser le réchauffage du carburateur à des r
 - **descente**: 
   - application du réch-carb avant la réduction de puissance
   - enrichissement du mélange avec la diminution d'altitude 
-- maniement des **autres commandes **de servitudes , le cas échéant
+- maniement des **autres commandes** de servitudes , le cas échéant
 
 ## Rapports d'accidents: 
 - Rapports de faits aéronautiques vol. 6, pp. 107, 118, 132
