@@ -9,7 +9,7 @@ de ceux-ci.
 ## Objectifs:
 - **bonne forme** physique et mentale 
 - **météo** et **NOTAMs**
-- **documents **nécessaires à bord et navigabilité
+- **documents** nécessaires à bord et navigabilité
 - cartes de navigation et route 
 - performances de l'avion (**POH**) 
 - **masse, centrage et chargement**
@@ -21,7 +21,7 @@ de ceux-ci.
 Une bonne préparation avant le vol est l'étape qui assure le mieux (et le plus facilement) un vol sécuritaire et une mission
 bien accomplie, en évitant au pilote des situations embarrassantes ou même dangereuses. La vérification de la validité
 des documents et de l'intégrité physique de l'aéronef fait donc partie intégrante de tous les vols. Une bonne connaissance
-de cet # Exercice et sa pratique développeront le jugement de l'élève et démontreront qu'il peut prendre ses responsabilités.
+de cet exercice et sa pratique développeront le jugement de l'élève et démontreront qu'il peut prendre ses responsabilités.
 
 ## Au sol: 
 ### Aides : 
@@ -37,10 +37,10 @@ de cet # Exercice et sa pratique développeront le jugement de l'élève et dém
 #### **Préparation personnelle :**
 - bonne forme physique (sommeil, fatigue, alimentation, stress, oxygène, exercice) 
 - bonne forme mentale (problèmes familiaux ou personnels, stress,....)
-- alcohol 
+- alcool 
 - drogues et cigarettes 
 - médicaments 
-- troubles respiratoires (rhumes, sinusite, allergies) 
+- troubles respiratoires (rhume, sinusite, allergies) 
 - équipement de secours, vêtements et chaussures appropriés
 
 #### **Météo et NOTAMs :** 
@@ -48,18 +48,18 @@ de cet # Exercice et sa pratique développeront le jugement de l'élève et dém
 - NOTAMs 
 
 #### **Documents :**
-- fonctionnment de la **répartition**
+- fonctionnement de la **répartition**
 - examen de tous les **documents** : 
-1.  Manuel d'utilisation de l'avion (expl. plus détaillées plus loin) 
-2.  Certificat d'immatriculation 
-3.  Certificat de navigabilité 
-4.  Licence de station radio de l'aéronef 
-5.  Carnet de route : 
+  1.  Manuel d'utilisation de l'avion (expl. plus détaillées plus loin) 
+  2.  Certificat d'immatriculation 
+  3.  Certificat de navigabilité 
+  4.  Licence de station radio de l'aéronef 
+  5.  Carnet de route : 
     - vérifier dernière inspection et heures restantes avant la prochaine 
     - ELT 
     - boussole
-6.  Rapport de poids et centrage (expl. plus détaillées plus loin) 
-7.  Procédures d'interception
+  6.  Rapport de poids et centrage (expl. plus détaillées plus loin) 
+  7.  Procédures d'interception
 
 - Le pilote doit aussi avoir sur lui : 
   - licence de pilote 
