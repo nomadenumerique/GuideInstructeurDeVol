@@ -2,7 +2,7 @@
 
 <FONT SIZE=-1>Plans de leçons 1, 2, 3 </P>
 
-<H2>Définition:</H2>
+## Définition:
 
 
 - commandes qui ne sont pas des contrôles primaires de vol, mais
@@ -10,23 +10,23 @@ qui contribuent néanmoins à la sécurité et/ou
 à l'efficacité du pilotage d'un avion.
 
 
-<H2>Objectifs:</H2>
+## Objectifs:
 
 But et fonctionnement de : </P>
 
 
-- <B>réchauffage carburateur</B> 
+- **réchauffage carburateur** 
 
-- commande de richesse du <B>mélange </B>
+- commande de richesse du **mélange **
 
-- <B>désembuage </B>du pare-brise, <B>chauffage </B>de cabine
-et <B>aérateurs </B>
+- **désembuage **du pare-brise, **chauffage **de cabine
+et **aérateurs **
 
-- <B>autres </B>commandes de servitudes, s'il y a lieu (volets de capot,
+- **autres **commandes de servitudes, s'il y a lieu (volets de capot,
 etc)
 
 
-<H2>Motivation:</H2>
+## Motivation:
 
 
 - La détection et la correction de la situation dangereuse que
@@ -44,7 +44,7 @@ l'exploitation de l'avion tant au point de vue confort que sécurité.
 
 
 
-<H2>Au sol:</H2>
+## Au sol:
 
 Aides :</P>
 
@@ -64,11 +64,11 @@ Aides :</P>
 Points à démontrer: 
 </P>
 
-<B>Réchauffage carburateur : </B>
+**Réchauffage carburateur : **
 </P>
 
 
-- <B>causes du givrage </B>: 
+- **causes du givrage **: 
 
 - vaporisation du carburant (absorption de chaleur latente) 
 
@@ -79,21 +79,21 @@ de l'admission d'air, donc réduction de la puissance par enrichissement
 excessif du mélange et diminution de la quantité de mélange
 
 
-- <B>conditions </B>de température ambiante, d'humidité
+- **conditions **de température ambiante, d'humidité
 (point de rosée) et de régime moteur les plus et les moins
 critiques 
 
-- <B>symptômes </B>de givrage de carburateur:: (baisse graduelle
+- **symptômes **de givrage de carburateur:: (baisse graduelle
 ou subite de R.P.M. ou de la pression d'admission et à-coups du
 moteur) 
 
-- principe du réchauffage : <B>source de l'air chaud </B>
+- principe du réchauffage : **source de l'air chaud **
 
-- importance d'une <B>détection précoce </B>du phénomène
+- importance d'une **détection précoce **du phénomène
 (l'utilisation préventive est beaucoup plus efficace que l'utilisation
 corrective) 
 
-- technique de <B>prévention </B>et d'élimination du givrage
+- technique de **prévention **et d'élimination du givrage
 (consulter POH) : 
 
 - si présence des conditions critiques (vol dans les nuages,...)
@@ -114,30 +114,30 @@ réch
 encore chaudes (voir liste de vérification en cas d'atterrissage
 forcé) 
 
-- <B>influence sur le mélange </B>air
+- **influence sur le mélange **air
 
 - essence (encrassage des bougies et usage du mélange) 
 
 - nécessité de maintenir la température du moteur
 pendant une descente prolongée 
 
-- <B>réactions du moteur </B>
+- **réactions du moteur **
 
-- risque de causer le givrage par l' <B>application partielle ou inutile
-</B>du réchauffage carb 
+- risque de causer le givrage par l' **application partielle ou inutile
+**du réchauffage carb 
 
-- risque de causer de la <B>détonation </B>(lorsque puissance
+- risque de causer de la **détonation **(lorsque puissance
 sup. à 75%) 
 
-- <B>indicateur de température de carburateur </B>et emplacement
+- **indicateur de température de carburateur **et emplacement
 de la sonde 
 
-- <B>usage par temps très froid </B>(< -20°C) pour faciliter
+- **usage par temps très froid **(< -20°C) pour faciliter
 la vaporisation de l'essence (consulter POH) 
 
 
 
-<B>Commande de richesse du mélange : </B>
+**Commande de richesse du mélange : **
 </P>
 
 
@@ -159,15 +159,15 @@ laisser d'essence dans les cylindres
 
 
 
-- <B>si le mélange est trop pauvre : </B>
+- **si le mélange est trop pauvre : **
 
 
-- <B>puissance </B>diminuée 
+- **puissance **diminuée 
 
-- <B>surchauffe </B>des cylindres et pistons pouvant causer une panne
+- **surchauffe **des cylindres et pistons pouvant causer une panne
 
 
-- <B>détonation </B>
+- **détonation **
 
 - moteur a des ratés si le rapport air/essence devient supérieur
 à 22 lbs d'air pour 1 lb d'essence 
@@ -175,20 +175,20 @@ laisser d'essence dans les cylindres
 
 
 
-- <B>si le mélange est trop riche :</B>
+- **si le mélange est trop riche :**
 
 
-- conséquences <B>moins graves </B>qu'avec un mélange trop
+- conséquences **moins graves **qu'avec un mélange trop
 pauvre 
 
-- <B>puissance </B>diminuée 
+- **puissance **diminuée 
 
-- <B>refroidissement </B>excessif (en descente) 
+- **refroidissement **excessif (en descente) 
 
-- <B>distance franchissable </B>inférieure à celle publiée
+- **distance franchissable **inférieure à celle publiée
 dans POH (consommation d'essence excessive) 
 
-- encrassement des <B>bougies </B>
+- encrassement des **bougies **
 
 - moteur a des ratés si le rapport air/essence devient inférieur
 à 7 lbs d'air pour 1 lb d'essence 
@@ -196,7 +196,7 @@ dans POH (consommation d'essence excessive)
 
 
 
-- <B>conditions extérieures </B>affectant le rapport air/essence
+- **conditions extérieures **affectant le rapport air/essence
 : 
 
 
@@ -210,7 +210,7 @@ température ambiante ou de l'application du réch carb)
 
 
 
-- <B>réglage </B>de la commande de mélange (voir POH) :
+- **réglage **de la commande de mélange (voir POH) :
 
 
 - au décollage 
@@ -230,20 +230,20 @@ température ambiante ou de l'application du réch carb)
 
 
 
-- <B>Désembuage du pare-brise, chauffage de cabine et aérateurs
-</B>
+- **Désembuage du pare-brise, chauffage de cabine et aérateurs
+**
 
 
-- <B>sources </B>de l'air chaud 
+- **sources **de l'air chaud 
 
-- commandes et leur <B>usage </B>
+- commandes et leur **usage **
 
 - interprétation des schémas dans le manuel de l'avion
 
 
 
-- <B>Dispositifs de refroidissement moteur : volets de capot : 
-Procédures </B>: 
+- **Dispositifs de refroidissement moteur : volets de capot : 
+Procédures **: 
 
 
 
@@ -255,13 +255,13 @@ Procédures </B>:
 
 - fermés en approche 
 
-- vérification : vérifier la <B>température des
-têtes de cylindres </B>( <B>CHT </B>) pour le réglage correct
+- vérification : vérifier la **température des
+têtes de cylindres **( **CHT **) pour le réglage correct
 des volets de capot (et manuel de l'avion)
 
 
 
-- <B>Eclairage : </B>
+- **Eclairage : **
 
 
 - feux anticollision 
@@ -281,7 +281,7 @@ des volets de capot (et manuel de l'avion)
 
 
 
-- <B>Dispositifs anti-glace : </B>
+- **Dispositifs anti-glace : **
 
 
 - hélices 
@@ -295,7 +295,7 @@ des volets de capot (et manuel de l'avion)
 
 
 
-- <B>Oxygène et pressurisation : </B>
+- **Oxygène et pressurisation : **
 
 
 - ANO applicables 
@@ -313,14 +313,14 @@ des volets de capot (et manuel de l'avion)
 
 
 
-- <B>Autres : </B>
+- **Autres : **
 
 
 - au besoin selon l'appareil et la mission 
 
 
 
-<H2>Questions:</H2>
+## Questions:
 
 Lorsqu'on utilise le réchauffage du carburateur : </P>
 
@@ -347,22 +347,22 @@ du carburateur à des régimes moteur supérieurs à
 75% ? (Détonation)
 </P>
 
-<H2>En vol:</H2>
+## En vol:
 
 
-- <B>point fixe </B>: 
+- **point fixe **: 
 
 
-- éviter <B>poussières </B>lorsque réch-carb utilisé
+- éviter **poussières **lorsque réch-carb utilisé
 (air n'est plus filtré) 
 
-- essai de la commande de <B>mélange </B>pour décrasser
-les bougies <B>avant la vérification des magnétos </B>
+- essai de la commande de **mélange **pour décrasser
+les bougies **avant la vérification des magnétos **
 
 
 
 
-- <B>décollage et montée </B>: 
+- **décollage et montée **: 
 
 
 - application des recommendations du manufacturier 
@@ -372,7 +372,7 @@ les bougies <B>avant la vérification des magnétos </B>
 
 
 
-- vol de <B>croisière </B>: 
+- vol de **croisière **: 
 
 
 - effet du réch-carb sur RPM ou p.a. 
@@ -382,7 +382,7 @@ les bougies <B>avant la vérification des magnétos </B>
 
 
 
-- <B>descente </B>: 
+- **descente **: 
 
 
 - application du réch-carb avant la réduction de puissance
@@ -393,16 +393,16 @@ les bougies <B>avant la vérification des magnétos </B>
 
 
 
-- maniement des <B>autres commandes </B>de servitudes , le cas échéant
+- maniement des **autres commandes **de servitudes , le cas échéant
 
 
 
-<H2>Rapports d'accidents: </H2>
+## Rapports d'accidents: 
 
 Rapports de faits aéronautiques vol. 6, pp. 107, 118, 132
 I learned about flying from that, p. 131, 135 </P>
 
-<H2>Références:</H2>
+## Références:
 
 GIV 69 
 MP 52 

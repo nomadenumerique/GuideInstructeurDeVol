@@ -155,7 +155,7 @@ approximative
 - surveiller instruments moteur
 
 + <U>technique de mise en palier</U> (3
-&eacute;tapes centrales, mais <B>pas</B> dans           le m&ecirc;me
+&eacute;tapes centrales, mais **pas** dans           le m&ecirc;me
 ordre):
 
 - d&eacute;terminer l'altitude du palier
@@ -264,7 +264,7 @@ et emp&ecirc;cher le lacet)
 - s'assurer d'&ecirc;tre en bas de Vfe avant
 de sortir les volets
 
-- s'assurer d'&ecirc;tre en haut de Vs<B>1</B>
+- s'assurer d'&ecirc;tre en haut de Vs**1**
 avant de remonter les volets
 
 - utiliser les volets par &eacute;tapes de
@@ -387,8 +387,8 @@ D&eacute;monstration principale :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef</B></U><B>  : <U>puissance,
-assiette  et  compensateur</U>   (PAT)</B>
++ <U>**clef**</U>**  : <U>puissance,
+assiette  et  compensateur</U>   (PAT)**
 
 + <U>technique de mise en descente</U> (3
 &eacute;tapes centrales):
@@ -419,7 +419,7 @@ approximative
 - surveiller instruments moteur
 
 + <U>technique de mise en palier</U> (3
-&eacute;tapes centrales, mais <B>pas</B> dans           le m&ecirc;me
+&eacute;tapes centrales, mais **pas** dans           le m&ecirc;me
 ordre):
 
 - d&eacute;terminer l'altitude du palier

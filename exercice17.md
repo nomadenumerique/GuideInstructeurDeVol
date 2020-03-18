@@ -66,7 +66,7 @@ AIR 4.5
 
 Au sol:
 
-<B>Aides:</B>+
+**Aides:**+
 maquette d'avion
 
 + plan de l'a&eacute;roport
@@ -74,7 +74,7 @@ maquette d'avion
 + papier et crayon (tableau et craie)
 
 
-<B>Points &agrave; d&eacute;montrer:</B>
+**Points &agrave; d&eacute;montrer:**
 
 + Plusieurs &eacute;l&eacute;ments standards
 :
@@ -239,8 +239,8 @@ mieux juger    d&eacute;placement apparent du point de contact)
 _ stabiliser pente de descente avec puissance
 pour garder    point de contact fixe sur le pare-brise)
 
-_ s'aligner correctement (<B>petites</B>
-corrections, <B>t&ocirc;t</B> en             finale)
+_ s'aligner correctement (**petites**
+corrections, **t&ocirc;t** en             finale)
 
 - cisaillement du vent <U>&agrave; proximit&eacute;
 du sol</U> (100 ' AGL ou moins ):    imm&eacute;diatement augmenter
@@ -448,7 +448,7 @@ On vous indique que vous &ecirc;tes num&eacute;ro
 
 En vol:
 
-<B>Equipement normal:</B>
+**Equipement normal:**
 + visibilit&eacute; :  10 milles
 
 plafond :  1500 pi
@@ -457,7 +457,7 @@ plafond :  1500 pi
 tard l'apr&egrave;s-midi)
 
 
-<B>D&eacute;monstration :</B>
+**D&eacute;monstration :**
 
 + nommer l'exercice
 
@@ -466,7 +466,7 @@ tard l'apr&egrave;s-midi)
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :  Mont&eacute;e initiale</B> dans
++ **clef :  Mont&eacute;e initiale** dans
 le prolongement de l'axe de piste
 
 + circuit rectangulaire

@@ -285,7 +285,7 @@ cas de panne moteur  (altitudes,    directions et proc&eacute;dures)
 ( brouettage et &quot;shimmy&quot;)
 
 - contr&ocirc;le de la direction pendant
-la course au sol avec le     palonnier (<B>pas</B> de freins)
+la course au sol avec le     palonnier (**pas** de freins)
 
 - rotation &agrave; Vr ; r&eacute;f&eacute;rence
 principale :  an&eacute;mom&egrave;tre
@@ -356,7 +356,7 @@ dans le manuel (important s'il y a des rafales)
 - acc&eacute;l&eacute;rer &agrave; la vitesse
 de meilleur taux de mont&eacute;e
 
-- virage <B>coordonn&eacute;</B> dans le
+- virage **coordonn&eacute;** dans le
 vent pour corriger la d&eacute;rive
 
 - maintien de l'axe de piste (ailes horizontales
@@ -387,7 +387,7 @@ avant d&eacute;collage
 - v&eacute;rifier l'approche et le circuit
 
 - obtenir autorisation de d&eacute;collage
-<B>et</B> autorisation de remonter    la piste au maximum
+**et** autorisation de remonter    la piste au maximum
 
 - remonter la piste jusqu'au bout
 
@@ -429,7 +429,7 @@ acc&eacute;l&eacute;rer &agrave; la vitesse    normale de mont&eacute;e
 et rentrer les volets
 
 
-_ sur terrain mou <B>ou</B> accident&eacute;
+_ sur terrain mou **ou** accident&eacute;
  :
 
 - l'# Exercice est termin&eacute; lorsqu'&eacute;tabli
@@ -575,7 +575,7 @@ sur la piste align&eacute;e avec le vent  (ils ont  priorit&eacute;)
 R&eacute;capitulation :
 
 Erreurs courantes lors de la pratique de d&eacute;collages,
-<B>en g&eacute;n&eacute;ral</B> :
+**en g&eacute;n&eacute;ral** :
 
 - ne pas utiliser toute la piste disponible
 
@@ -591,7 +591,7 @@ pression arri&egrave;re (possibilit&eacute; de brouettage)
 
 
 Erreurs courantes lors de la pratique de d&eacute;collages
-par <B>vent de travers</B> :
+par **vent de travers** :
 
 - trop diminuer la d&eacute;flection des
 ailerons au d&eacute;but de la course au sol
@@ -614,8 +614,8 @@ le sol trop t&ocirc;t
 pendant la mont&eacute;e
 
 
-Erreurs courantes lors de la pratique de <B>d&eacute;collages
-courts</B>  :
+Erreurs courantes lors de la pratique de **d&eacute;collages
+courts**  :
 
 - application brusque de la puissance
 
@@ -629,8 +629,8 @@ de Vx apr&egrave;s la rotation (timidit&eacute;  &agrave; tenir
 l'assiette aussi cabr&eacute;e)
 
 
-Erreurs courantes lors de la pratique de <B>d&eacute;collages
-sur terrains mou ou           accident&eacute;</B>  :
+Erreurs courantes lors de la pratique de **d&eacute;collages
+sur terrains mou ou           accident&eacute;**  :
 
 - s'arr&ecirc;ter pour s'aligner  (et s'enfoncer,
 si conditions r&eacute;elles)
@@ -754,7 +754,7 @@ D&eacute;monstrations :
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :   Vr</B>
++ **clef :   Vr**
 
 + effectuer v&eacute;rifications cabine avant
 d&eacute;collage
@@ -782,7 +782,7 @@ de panne moteur  (altitudes,    directions et proc&eacute;dures)
 (pour &eacute;viter brouettage et &quot;shimmy&quot;)
 
 + contr&ocirc;le de la direction pendant
-la course au sol avec le palonnier   (<B>pas</B> de freins)
+la course au sol avec le palonnier   (**pas** de freins)
 
 + rotation &agrave; Vr ; r&eacute;f&eacute;rence
 principale :  an&eacute;mom&egrave;tre
@@ -811,8 +811,8 @@ acc&eacute;l&eacute;r. moins prononc&eacute;e
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :   ailerons dans le vent et Vr
-sup&eacute;rieur</B>
++ **clef :   ailerons dans le vent et Vr
+sup&eacute;rieur**
 
 + v&eacute;rifier composante traversi&egrave;re
 du vent
@@ -874,8 +874,8 @@ avec obstacle  et surface dure) :
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :   maximum de piste et Vr proche
-de Vx</B>
++ **clef :   maximum de piste et Vr proche
+de Vx**
 
 + effectuer v&eacute;rifications cabine avant
 d&eacute;collage
@@ -931,8 +931,8 @@ et rentrer les volets un cran &agrave; la fois
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :   manche comp&egrave;tement en
-arri&egrave;re et  Vmu</B>
++ **clef :   manche comp&egrave;tement en
+arri&egrave;re et  Vmu**
 
 + effectuer v&eacute;rifications cabine avant
 d&eacute;collage

@@ -301,7 +301,7 @@ D&eacute;monstration :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <B>clef :  configuration d'autonomie maximale</B>
++ **clef :  configuration d'autonomie maximale**
 
 Premi&egrave;re partie :
 
@@ -423,7 +423,7 @@ Cap  :  &#177; 10&#176;
 
 Altitude :  &#177; 100'
 
-Vitesse :  <B>+ 5</B> kts/ <B>- 0</B> kts
+Vitesse :  **+ 5** kts/ **- 0** kts
 
 
 

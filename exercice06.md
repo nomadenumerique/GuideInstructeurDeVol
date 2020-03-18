@@ -1,16 +1,10 @@
 # Exercice 6: Vol rectiligne en palier
 
-Plans
-de le&ccedil;ons    2,   3,   4
+Plans de le&ccedil;ons 2, 3, 4
 
-
-
-
-D&eacute;finition :
-vol rectiligne : vol en ligne droite
-
-vol en palier   : vol &agrave; altitude
-constante
+## D&eacute;finition :
+- vol rectiligne : vol en ligne droite
+- vol en palier : vol &agrave; altitude constante
 
 
 
@@ -79,11 +73,11 @@ POH  : 4-8; 4-15 &agrave; 4-16; 5-5 &agrave;
 
 Points &agrave; d&eacute;montrer :
 
-<B>Vol rectiligne :</B>
+**Vol rectiligne :**
 
-<B></B>+ <U>d&eacute;finition</U>
+****+ <U>d&eacute;finition</U>
 
-<B></B>+ effet
+****+ effet
 de <U>parallaxe</U>  (choix des r&eacute;f&eacute;rences appropri&eacute;es:
 point de       rep&egrave;re loin et droit en avant)
 
@@ -139,7 +133,7 @@ ou 20&#176; , l'inclinaison la plus     faible)
 &eacute;quip&eacute;)
 
 
-<B>Vol en palier &agrave; vitesse cst :</B>
+**Vol en palier &agrave; vitesse cst :**
 
 + <U>d&eacute;finition</U>
 
@@ -173,7 +167,7 @@ seulement &quot;l'image&quot; de       l'altim&egrave;tre, puis
 
 
 
-<B>Vol rectiligne en palier :</B>
+**Vol rectiligne en palier :**
 
 TROIS &eacute;l&eacute;ments &agrave; consid&eacute;rer
 :
@@ -208,7 +202,7 @@ l'int&eacute;rieur pour ne pas     courir l'aiguille)
 c) retour &agrave; l'&eacute;tape 1)
 
 
-<B>Changements de vitesse :</B>
+**Changements de vitesse :**
 
 + <U>d&eacute;finition</U>
 
@@ -343,7 +337,7 @@ et emp&ecirc;cher le lacet)
 - s'assurer d'&ecirc;tre en bas de Vfe avant
 de sortir les volets
 
-- s'assurer d'&ecirc;tre en haut de Vs<B>1</B>
+- s'assurer d'&ecirc;tre en haut de Vs**1**
 avant de remonter les volets
 
 (voir POH)
@@ -444,8 +438,8 @@ D&eacute;monstration :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef </B></U><B>: cap initial et
-r&eacute;f&eacute;rence</B> ext&eacute;rieure dans l'axe du vent
++ <U>**clef **</U>**: cap initial et
+r&eacute;f&eacute;rence** ext&eacute;rieure dans l'axe du vent
 
 + bonne technique de <U>surveillance</U>
 ext&eacute;rieure   (&#171;exploration visuelle           par
@@ -497,7 +491,7 @@ en r&eacute;f&eacute;rence avec l'horizon ext&eacute;rieur
 
 - importance d'une bonne compensation
 
-+ <U>vol rectiligne <B>et</B> en palier</U>
++ <U>vol rectiligne **et** en palier</U>
 :
 
 - point en avant et D.G. : ailes equidistantes

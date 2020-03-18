@@ -5,7 +5,7 @@ Plans de leçon:   1,   2,    --
 ## D&eacute;finitions :
 
 - **assiette** : position de l'avion par rapport &agrave; la surface de la terre.
-- changement d'assiette :  <B>mouvement
+- changement d'assiette :  **mouvement
  
  
 ## Objectifs :
@@ -67,7 +67,7 @@ de manoeuvres.]
 
 
 
-</B>
+**
 
 R&eacute;f&eacute;rences :
 GIV 75
@@ -158,12 +158,12 @@ palonnier
 
 <U>mouvement en relation</U> au pilote
 
-<U><B>d&eacute;sirable </B></U><B>:</B>
+<U>**d&eacute;sirable **</U>**:**
  induit par l'inclinaison lat&eacute;rale et  utilis&eacute; en
      virage inclin&eacute;
 
-<U><B>ind&eacute;sirable </B></U><B>: </B>+<B>
-</B>souffle h&eacute;lico&iuml;dal
+<U>**ind&eacute;sirable **</U>**: **+**
+**souffle h&eacute;lico&iuml;dal
 
 + traction assym&eacute;trique
 
@@ -254,12 +254,12 @@ D&eacute;monstration:
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>cl&eacute; :   r&eacute;f&eacute;rences</B></U><B>
-  </B>(horizon, capot et ailes)
++ <U>**cl&eacute; :   r&eacute;f&eacute;rences**</U>**
+  **(horizon, capot et ailes)
 
 
 + assiette de r&eacute;f&eacute;rence : 
-<B>assiette de <U>croisi&egrave;re</U></B>
+**assiette de <U>croisi&egrave;re</U>**
 
 + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
 
@@ -274,7 +274,7 @@ _ surface de l'autre aile vs horizon (2)
 + <U>instruments</U> (horizon artificiel,
 vitesse et son, altitude et RPM)
 
-+ <B>assiette <U>cabr&eacute;e</U> :</B>
++ **assiette <U>cabr&eacute;e</U> :**
 
 + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
 
@@ -300,7 +300,7 @@ pour permettre la comparaison)
 
 
 
-+ <B>assiette <U>piqu&eacute;e</U> :</B>
++ **assiette <U>piqu&eacute;e</U> :**
 
 + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
 
@@ -322,7 +322,7 @@ pour permettre la comparaison)
 + assiette piqu&eacute;e ne fait pas toujours
 descendre
 
-+ <B>mouvement</B> de <U><B>tangage</B></U>
++ **mouvement** de <U>**tangage**</U>
 :
 
 _ le <U>nommer</U> en le montrant
@@ -346,7 +346,7 @@ proportionnelle &agrave;    la vitesse de l'avion
 partir de l'assiette de croisi&egrave;re
 
 
-+ <B>assiette <U>inclin&eacute;e</U> :</B>
++ **assiette <U>inclin&eacute;e</U> :**
 
 + d&eacute;finir en se servant des <U>r&eacute;f&eacute;rences</U>
 
@@ -365,7 +365,7 @@ conservateur de cap)
 &agrave; chaque fois &agrave; l'assiette      de croisi&egrave;re
 pour permettre la comparaison)
 
-+ mouvement de <U><B>roulis</B></U><B> </B>:
++ mouvement de <U>**roulis**</U>** **:
 
 _ le <U>nommer</U> en le montrant
 
@@ -390,8 +390,8 @@ partir de l'assiette de croisi&egrave;re
 de mouvements
 </U>
 
-+ mouvement de <U><B>lacet d&eacute;sirable</B></U><B>
-</B>:
++ mouvement de <U>**lacet d&eacute;sirable**</U>**
+**:
 
 incliner l&eacute;g&egrave;rement l'avion
 et l&acirc;cher les commandes
@@ -418,7 +418,7 @@ de la vitesse de l'avion ET    du souffle h&eacute;lico&iuml;dal
 
 
 
-+ mouvements de <U><B>lacet ind&eacute;sirable</B></U>
++ mouvements de <U>**lacet ind&eacute;sirable**</U>
 (vol non-coordonn&eacute;) :
 
 montrer quelques exemples et comment contr&ocirc;ler
@@ -432,7 +432,7 @@ _ effet gyroscopique
 _ lacet inverse
 
 
-+ d&eacute;montrer le <U><B>roulis induit</B></U>
++ d&eacute;montrer le <U>**roulis induit**</U>
 par un lacet non contr&ocirc;l&eacute;
 
 

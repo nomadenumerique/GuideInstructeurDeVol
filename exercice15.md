@@ -92,7 +92,7 @@ de descente,        glissade contre le vent)
 
 _ en virage gliss&eacute;
 
-- <B>atterrissages</B> vent de travers
+- **atterrissages** vent de travers
 
 - en cas d'incendie, pour d&eacute;vier
 les flammes (et descendre le plus    rapidement possible)
@@ -146,11 +146,11 @@ en ligne droite est de perdre de   l'altitude rapidement)
 - incliner l'avion et emp&ecirc;cher le
 nez de bouger (glissade lat&eacute;rale)
 
-- pour une glissade en ligne droite, <B>d'abord</B>
+- pour une glissade en ligne droite, **d'abord**
 effectuer un virage   coordonn&eacute; (du c&ocirc;t&eacute; oppos&eacute;
 &agrave; la direction choisie pour la glissade)   pour obtenir
 l'angle recherch&eacute; entre l'axe longitudinal et la    trajectoire
-de vol, revenir &agrave; l'horizontale, <B>puis</B> incliner l'avion
+de vol, revenir &agrave; l'horizontale, **puis** incliner l'avion
 en   emp&ecirc;chant le nez de bouger
 
 - indications des instruments selon le sens
@@ -179,8 +179,8 @@ pendant qu'on emp&ecirc;che le nez   de bouger de direction
  (pendant le braquage des ailerons ajouter   davantage de palonnier
 pour neutraliser le lacet inverse 
 
-- s'il s'agit d'une glissade <B>en ligne
-droite</B>, effectuer <B>ensuite</B>   un virage coordonn&eacute;
+- s'il s'agit d'une glissade **en ligne
+droite**, effectuer **ensuite**   un virage coordonn&eacute;
 pour faire coincider l'axe longitudinal avec la   trajectoire
 que l'avion suivait pendant la glissade)
 
@@ -285,8 +285,8 @@ D&eacute;monstration :
 + motiver l'&eacute;tudiant
 
 
-+ <B>clef :  assiette inclin&eacute;e et
-mouvement de lacet neutralis&eacute;</B>
++ **clef :  assiette inclin&eacute;e et
+mouvement de lacet neutralis&eacute;**
 
 + s&eacute;curit&eacute; : &#215; altitude
 minimale
@@ -306,11 +306,11 @@ r&eacute;elle :  couper la   puissance
 - incliner l'avion et emp&ecirc;cher le
 nez de bouger (glissade lat&eacute;rale)
 
-- pour une glissade en ligne droite, <B>d'abord</B>
+- pour une glissade en ligne droite, **d'abord**
 effectuer un virage   coordonn&eacute; (du c&ocirc;t&eacute; oppos&eacute;
 &agrave; la direction choisie pour la glissade)   pour obtenir
 l'angle recherch&eacute; entre l'axe longitudinal et la    trajectoire
-de vol, revenir &agrave; l'horizontale, <B>puis</B> incliner l'avion
+de vol, revenir &agrave; l'horizontale, **puis** incliner l'avion
 en   emp&ecirc;chant le nez de bouger
 
 - indications des instruments selon le sens
@@ -345,8 +345,8 @@ pendant qu'on emp&ecirc;che le nez   de bouger de direction
  (pendant le braquage des ailerons ajouter   davantage de palonnier
 pour neutraliser le lacet inverse 
 
-- s'il s'agit d'une glissade <B>en ligne
-droite</B>, effectuer <B>ensuite</B>   un virage coordonn&eacute;
+- s'il s'agit d'une glissade **en ligne
+droite**, effectuer **ensuite**   un virage coordonn&eacute;
 pour faire coincider l'axe longitudinal avec la   trajectoire
 que l'avion suivait pendant la glissade)
 

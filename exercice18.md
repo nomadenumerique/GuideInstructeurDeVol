@@ -68,7 +68,7 @@ Kershner FIM  45-47;  82-86;  90-92;  95-97;
 
 Au sol:
 
-<B>Aides:</B>+
+**Aides:**+
 maquette d'avion
 
 + Manuel de l'avion  1-5 &agrave; 1-6; 
@@ -78,7 +78,7 @@ POH  4-3;  4-8 &agrave; 4-9;  4-19 &agrave;
 4-20; 5-7;  5-19
 
 
-<B>Points &agrave; d&eacute;montrer :</B>
+**Points &agrave; d&eacute;montrer :**
 
 + Manuel d'op&eacute;ration de l'avion (POH)
 :
@@ -127,7 +127,7 @@ herbe, mouill&eacute;e, enneig&eacute;e, glac&eacute;e)
 
 + revoir # Exercice 8  (Descentes)
 
-+ d&eacute;termination du genre d'<B>approche</B>
++ d&eacute;termination du genre d'**approche**
 &agrave; effectuer :
 
 - obstacle
@@ -142,7 +142,7 @@ herbe, mouill&eacute;e, enneig&eacute;e, glac&eacute;e)
 
 - genre d'atterrissage
 
-+ d&eacute;termination du genre d'<B>atterrissage</B>
++ d&eacute;termination du genre d'**atterrissage**
 &agrave; effectuer :
 
 - force et direction du vent
@@ -221,7 +221,7 @@ d'effectuer une remont&eacute;e
 stationn&eacute;s, arbres,          herbe, horizon,....)
 
 - pendant l'approche:  emp&ecirc;cher les
-marques de <B>seuil</B> de piste de    &#171;bouger&#187; par
+marques de **seuil** de piste de    &#171;bouger&#187; par
 rapport au capot jusqu'au d&eacute;but de l'arrondi    (maintenir
 vitesse constante avec gouv. de profondeur,     contr&ocirc;ler
 taux de descente avec volets et puissance)
@@ -234,19 +234,19 @@ effectuer rapidement (1) et (2) :
 <U>d&eacute;bute</U> et la <U>cadence</U> &agrave;    laquelle
 il est effectu&eacute;, d&eacute;pendent du taux de descente 
    ant&eacute;rieur  (regarder &agrave; quelle vitesse les choses,
-surtout    <B>proches du seuil</B>, &#171;bougent&#187;)
+surtout    **proches du seuil**, &#171;bougent&#187;)
 
 2) d&eacute;termination de la hauteur en
 regardant sous quelle     perspective se pr&eacute;sentent des
-objets familiers      (regarder surtout o&ugrave; <B>l'horizon
-</B>&#171;coupe&#187; les objets)
+objets familiers      (regarder surtout o&ugrave; **l'horizon
+**&#171;coupe&#187; les objets)
 
 3) diriger le regard <U>&agrave; gauche</U>
 le long du capot, &agrave; la m&ecirc;me    distance qu'habituellement
 d'une auto roulant &agrave; la m&ecirc;me    vitesse, c-a-d. <U>assez</U>
 <U>loin</U> pour que le sol ne soit pas flou et    <U>assez pr&egrave;s</U>
 pour pouvoir d&eacute;tecter les changements de     hauteur  
- (<U>environ</U>  <B>&agrave; mi-piste )</B>
+ (<U>environ</U>  **&agrave; mi-piste )**
 
 - apr&egrave;s que la descente ait &eacute;t&eacute;
 arr&ecirc;t&eacute;e  (en palier &agrave; environ 1') :
@@ -505,7 +505,7 @@ et souple sur l'avion.  On doit  appliquer une pression ferme
 sur le manche et sur les p&egrave;dales lors de  l'application
 de la pleine puissance  (re-compenser d&egrave;s que possible)
 
-- s'assurer d'&ecirc;tre en haut de Vs<B>1</B>
+- s'assurer d'&ecirc;tre en haut de Vs**1**
 avant de remonter les volets
 
 (voir POH)
@@ -523,8 +523,8 @@ remont&eacute;e
 R&eacute;capitulation :
 
 Erreurs courantes qu'un &eacute;l&egrave;ve
-peut commettre lorsqu'il ou elle essaye de corriger une <B>approche
-trop basse</B> :
+peut commettre lorsqu'il ou elle essaye de corriger une **approche
+trop basse** :
 
 - ne pas voir suffisament &agrave; l'avance
 que l'avion va se trouver trop bas
@@ -540,7 +540,7 @@ ajouter de puissance
 
 
 Erreurs fr&eacute;quentes lors de la pratique
-des <B>atterrissages normaux</B> :
+des **atterrissages normaux** :
 
 - position ou poids de l'avant-bras applique
 involontairement de  l'aileron
@@ -569,7 +569,7 @@ arri&egrave;re pendant le roulage
 
 
 Erreurs fr&eacute;quentes lors des atterrissages
-<B>par rafales de vent</B> :
+**par rafales de vent** :
 
 - plaquer brutalement l'avion au sol  (dommages
 &agrave; la roue de nez)
@@ -580,7 +580,7 @@ et garder la roue de nez en  l'air apr&egrave;s l'atterrissage
 
 
 Erreurs fr&eacute;quentes lors des atterrissages
-<B>par vent</B> <B>de travers</B> :
+**par vent** **de travers** :
 
 APPROCHE EN CRABE ET ATTERRISSAGE AILE BASSE
 :
@@ -621,7 +621,7 @@ de la d&eacute;rive que l'atterrissage est  n&eacute;glig&eacute;
 
 
 Erreurs fr&eacute;quentes lors de la pratique
-des <B>atterrissages courts</B> :
+des **atterrissages courts** :
 
 - laisser la vitesse augmenter pendant l'approche
 
@@ -644,7 +644,7 @@ les roues, application in&eacute;gale
 
 
 Erreurs fr&eacute;quentes lors de la pratique
-des <B>atterrissages sur terrain mou</B> :
+des **atterrissages sur terrain mou** :
 
 - laisser la vitesse augmenter pendant l'approche
 
@@ -734,7 +734,7 @@ D&eacute;monstrations :
 
 + <U>motiver</U> l'&eacute;tudiant
 
-+ <B>clef : seuil de piste &quot;immobile&quot;</B>
++ **clef : seuil de piste &quot;immobile&quot;**
 
 + stabilisation sur l'axe d'approche en vue
 de l'aterrissage (effet de           parallaxe)
@@ -751,7 +751,7 @@ volets et/ou puissance
 stationn&eacute;s, arbres,          herbe, horizon,....)
 
 - pendant l'approche:  emp&ecirc;cher les
-marques de <B>seuil</B> de piste de    &#171;bouger&#187; par
+marques de **seuil** de piste de    &#171;bouger&#187; par
 rapport au capot jusqu'au d&eacute;but de l'arrondi    (maintenir
 vitesse constante avec gouv. de profondeur,     contr&ocirc;ler
 taux de descente avec volets et puissance)
@@ -764,19 +764,19 @@ effectuer rapidement (1) et (2) :
 <U>d&eacute;bute</U> et la <U>cadence</U> &agrave;    laquelle
 il est effectu&eacute;, d&eacute;pendent du taux de descente 
    ant&eacute;rieur  (regarder &agrave; quelle vitesse les choses,
-surtout    <B>proches du seuil</B>, &#171;bougent&#187;)
+surtout    **proches du seuil**, &#171;bougent&#187;)
 
 2) d&eacute;termination de la hauteur en
 regardant sous quelle     perspective se pr&eacute;sentent des
-objets familiers      (regarder surtout o&ugrave; <B>l'horizon
-</B>&#171;coupe&#187; les objets)
+objets familiers      (regarder surtout o&ugrave; **l'horizon
+**&#171;coupe&#187; les objets)
 
 3) diriger le regard <U>&agrave; gauche</U>
 le long du capot, &agrave; la m&ecirc;me    distance qu'habituellement
 d'une auto roulant &agrave; la m&ecirc;me    vitesse, c-a-d. <U>assez</U>
 <U>loin</U> pour que le sol ne soit pas flou et    <U>assez pr&egrave;s</U>
 pour pouvoir d&eacute;tecter les changements de     hauteur  
- (<U>environ</U>  <B>&agrave; mi-piste )</B>
+ (<U>environ</U>  **&agrave; mi-piste )**
 
 - apr&egrave;s que la descente ait &eacute;t&eacute;
 arr&ecirc;t&eacute;e  (en palier &agrave; environ 1') :
@@ -816,8 +816,8 @@ et corriger avec les palonniers
 
 + <U>motiver</U> l'&eacute;tudiant
 
-+ <B>clef : correction de la d&eacute;rive
-en finale</B>
++ **clef : correction de la d&eacute;rive
+en finale**
 
 + v&eacute;rifier les recommendations du
 manufacturier concernant    l'utilisation des volets pendant une
@@ -870,7 +870,7 @@ toute l'approche
 
 + <U>motiver</U> l'&eacute;tudiant
 
-+ <B>clef : arrondi au seuil de piste</B>
++ **clef : arrondi au seuil de piste**
 
 + approche <U>au moteur (</U>&agrave; vitesse
 r&eacute;duite): &lt;1.3 Vso(CAS) + 1/2gust
@@ -907,7 +907,7 @@ sans bloquer les roues
 
 + <U>motiver</U> l'&eacute;tudiant
 
-+ <B>clef : puissance pendant l'arrondi</B>
++ **clef : puissance pendant l'arrondi**
 
 + reconnaissance du terrain  (approche de
 pr&eacute;caution :  ex. 21)

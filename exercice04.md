@@ -3,20 +3,20 @@
 <H6>Plans de leçons 1, 2, 3 </H6>
 
 
-<H2>Définition :</H2>
+## Définition :
 
 - désigne l'action de manoeuvrer un avion au sol en se servant du groupe
 moteur comme source de puissance
 
 
 
-<H2>Objectifs : </H2>
+## Objectifs : 
 
 - précautions à prendre pour conduire en toute sécurité l'avion au sol
 
 
 
-<H2>## Motivation :</H2>
+## ## Motivation :
 
 - Il est parfois tentant pour le pilote de rouler trop vite au sol,
 malgré le fait que ce soit là le meilleur moyen
@@ -28,7 +28,7 @@ de manoeuvre est encombrée.
 
 
 
-<h2>Théorie au sol :</h2>
+## Théorie au sol :
 
 <h3>Aides : </h3>
 
@@ -43,7 +43,7 @@ de manoeuvre est encombrée.
 <h3>Points à démontrer :</h3>
 
 - 
-<b><i>Buts du roulage au sol :</i></b>
+**<i>Buts du roulage au sol :</i>**
 <ul >
 -  se rendre à la piste en service
 -  revenir à l'aire de stationnement après le vol
@@ -52,7 +52,7 @@ de manoeuvre est encombrée.
 
 
 - 
- <b><i> Utilisation des commandes :</i></b>
+ **<i> Utilisation des commandes :</i>**
 
 - manette des gaz (pour amorcer le roulage ET stopper l'avion) et   friction
 - usage de la puissance différentielle sur un bimoteur
@@ -62,7 +62,7 @@ de manoeuvre est encombrée.
 
 
 - 
-<b><i> Planification de la manoeuvre :</i></b>
+**<i> Planification de la manoeuvre :</i>**
 
 -  avant démarrage, s'assurer que le sol sous l'hélice soit dégagé de tout débris et que le souffle de l'hélice n'incommodera personne.
 - dans le cas contraire, pousser et/ou orienter l'avion à la main
@@ -71,15 +71,15 @@ de manoeuvre est encombrée.
 
 
 - 
-<b><i>Communications à la radio</i></b>
+**<i>Communications à la radio</i>**
 
 
 - 
-<b><i>Vérification des freins et raisons de leur utilisation</i></b>
+**<i>Vérification des freins et raisons de leur utilisation</i>**
 
 
 - 
-<b><i>Circulation par vent fort :</i></b>
+**<i>Circulation par vent fort :</i>**
  
 - effet de girouette
 -  utilisation des commandes de vol
@@ -88,9 +88,9 @@ de manoeuvre est encombrée.
 
 
 
-- <b><i>Pour les 2 premiers vols, faire circuler l'étudiant "sans les mains"</i></b>
+- **<i>Pour les 2 premiers vols, faire circuler l'étudiant "sans les mains"</i>**
 
-- <b><i>Contrôle de la vitesse et définition de la vitesse «sécuritaire» :</i></b>
+- **<i>Contrôle de la vitesse et définition de la vitesse «sécuritaire» :</i>**
 
 -  selon l'encombrement de l'aire de    manoeuvre
 - en ligne droite  (vit. de marche rapide)
@@ -99,10 +99,10 @@ de manoeuvre est encombrée.
 
 
 - 
- <b><i>Contrôle de la trajectoire (sur ligne jaune et les DEUX bouts d'ailes dégagés)</i></b>
+ **<i>Contrôle de la trajectoire (sur ligne jaune et les DEUX bouts d'ailes dégagés)</i>**
 
 
-- <b><i>Vérification de divers instruments et endroit :</i></b>
+- **<i>Vérification de divers instruments et endroit :</i>**
 
  - gyroscopes :
 
@@ -114,11 +114,11 @@ de manoeuvre est encombrée.
 
 
 
-- <b><i>Importance de toujours regarder à l'extérieur</i></b>
+- **<i>Importance de toujours regarder à l'extérieur</i>**
 
-- <b><i>Choix de l'aire de point fixe</i></b>
+- **<i>Choix de l'aire de point fixe</i>**
 
-- <b><i>Retour  à l'aire de stationnement à la fin du vol:</i></b>
+- **<i>Retour  à l'aire de stationnement à la fin du vol:</i>**
 
 - emplacement des aires de stationnement
 - utilisation prudente des freins de stationnement lorsque les freins   sont chauds
@@ -128,7 +128,7 @@ de manoeuvre est encombrée.
 
 
 
-<h2>Discipline aéronautique :</h2>
+## Discipline aéronautique :
 
 <cite>(Le terme «discipline aéronautique» est utilisé pour décrire le JUGEMENT que le pilote
 doit appliquer en permanence pour conduire un vol sécuritaire
@@ -150,7 +150,7 @@ complètes, du «gros bon sens», de réactions rapides, de la conscience de la 
 - si un autre avion passe en face de nous lors du point fixe, réduire les  gaz
 
 
-<h2>Récapitulation :</h2>
+## Récapitulation :
 
 Erreurs les plus souvent commises :
 
@@ -163,7 +163,7 @@ Erreurs les plus souvent commises :
 
 
 
-<h2>Questions :</h2>
+## Questions :
  
 - Quand est-ce que les freins doivent être vérifiés ?
 - Lorsqu'on roule au sol par fort vent, les commandes de vol doivent être placées d'une certaine manière. Indiquez celle-ci dans le cas d'un vent venant de :
@@ -193,7 +193,7 @@ Erreurs les plus souvent commises :
 - Lorsque le contrôle au sol nous autorise à circuler pour la piste 24R via T, P et R, jusqu'où pouvons-nous circuler sans autre autorisation ?
 
 
-<h2>Pratique au sol:</h2>
+## Pratique au sol:
 
 
 -  nommer l'exercice
@@ -202,7 +202,7 @@ Erreurs les plus souvent commises :
 
 -  motiver l'étudiant
 
--  Clef :<b> plan de l'aéroport</b>  (Supplément de vol)
+-  Clef :** plan de l'aéroport**  (Supplément de vol)
 
 -  expliquer l'utilisation des commandes:
 
@@ -238,13 +238,13 @@ Erreurs les plus souvent commises :
 
 
 
-<h2>Rapports d'accidents :</h2>
+## Rapports d'accidents :
 
 
 - Rapports de faits aéronautiques, vol. 6, p.14
 
 
-<h2>Références :</h2>
+## Références :
 <ol>
 - GIV 73
 -    MP 57

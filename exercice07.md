@@ -298,7 +298,7 @@ cabr&eacute;, avant de rajouter la puissance
 - d&eacute;tecter et corriger tout probl&egrave;me
 directionnel (lacet) d&egrave;s que  possible
 
-- attention &agrave; ne <B>pas</B> tenir
+- attention &agrave; ne **pas** tenir
 une aile basse pour garder un cap donn&eacute;
 
 - v&eacute;rifier assiette ET vitesse pour
@@ -406,8 +406,8 @@ D&eacute;monstration principale :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef</B></U><B>  : <U>assiette, 
- puissance  et  compensateur</U>   (APT)</B>
++ <U>**clef**</U>**  : <U>assiette, 
+ puissance  et  compensateur</U>   (APT)**
 
 + TRES IMP :  faire remarquer les indications
 des <U>instruments</U> pendant    chacune des d&eacute;monstrations

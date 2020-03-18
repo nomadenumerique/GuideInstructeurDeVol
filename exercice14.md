@@ -224,7 +224,7 @@ une spirale ?</DT>
 
 <DT>+ motiver l'&eacute;tudiant</DT>
 
-<DT>+ <B>clef : virage &agrave; grande inclinaison</B>&nbsp;</DT>
+<DT>+ **clef : virage &agrave; grande inclinaison**&nbsp;</DT>
 
 <DT>+ s&eacute;curit&eacute; :&nbsp;</DT>
 

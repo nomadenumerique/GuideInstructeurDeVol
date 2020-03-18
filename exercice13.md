@@ -60,7 +60,7 @@ AIP AIR 4.3
 
 Au sol :
 
-<B>Aides :</B>
+**Aides :**
 + maquette d'avion
 
 + Manuel de l'avion  2-15
@@ -69,7 +69,7 @@ POH  2-6;  3-12 &agrave; 3-13;  4-17
 &agrave; 4-19
 
 
-<B>Points &agrave; d&eacute;montrer:</B>
+**Points &agrave; d&eacute;montrer:**
 
 + s&eacute;curit&eacute;:
 
@@ -314,7 +314,7 @@ D&eacute;monstration :
 + motiver l'&eacute;tudiant
 
 
-<B><B>+ clef :   d&eacute;crochage</B></B>
+****+ clef :   d&eacute;crochage****
 
 + s&eacute;curit&eacute;
 

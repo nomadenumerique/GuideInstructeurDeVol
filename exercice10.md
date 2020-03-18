@@ -9,14 +9,14 @@ de le&ccedil;ons   3,   4,   5
 
 D&eacute;finitions :
 
-<B>Puissance de distance franchissable maximale:</B>
-puissance qui permettra &agrave; l'avion de parcourir <B>la plus
-grande distance</B> possible  (nb. max. de milles parcourus) par
+**Puissance de distance franchissable maximale:**
+puissance qui permettra &agrave; l'avion de parcourir **la plus
+grande distance** possible  (nb. max. de milles parcourus) par
 unit&eacute; de carburant 
 
 
-<B>Puissance d'autonomie maximale : </B>puissance
-qui permettra &agrave; l'avion de rester en vol <B>le plus longtemps</B>
+**Puissance d'autonomie maximale : **puissance
+qui permettra &agrave; l'avion de rester en vol **le plus longtemps**
 possible (nb. max de minutes en l'air) par unit&eacute; de carburant.
 
 
@@ -88,7 +88,7 @@ POH 5-14 &agrave; 5-18
 
 Points &agrave; d&eacute;montrer :
 
-<B>Distance franchissable maximale :</B>
+**Distance franchissable maximale :**
 
 &#139; courbe de la tra&icirc;n&eacute;e
 
@@ -117,7 +117,7 @@ du m&eacute;lange
 
 </U>
 
-<B>Autonomie maximale :</B>
+**Autonomie maximale :**
 
 + <U>courbes de la puissance</U> disponible
 et de la puissance requise
@@ -198,7 +198,7 @@ Equipement : air calme  (t&ocirc;t le matin)
 
 
 
-<B>Distance franchissable maximale :</B>
+**Distance franchissable maximale :**
 
 + <U>nommer </U>l'exercice
 
@@ -207,8 +207,8 @@ Equipement : air calme  (t&ocirc;t le matin)
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef</B></U><B> :  diminution de
-la puissance</B>
++ <U>**clef**</U>** :  diminution de
+la puissance**
 
 + <U>technique</U> exp&eacute;rimentale :
 
@@ -245,7 +245,7 @@ ext&eacute;rieure
 
 
 
-<B>Autonomie maximale :</B>
+**Autonomie maximale :**
 
 
 + <U>nommer </U>l'exercice
@@ -255,9 +255,9 @@ ext&eacute;rieure
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef</B></U><B> :  diminution de
++ <U>**clef**</U>** :  diminution de
 la puissance
-</B>
+**
 
 + <U>technique</U> :
 

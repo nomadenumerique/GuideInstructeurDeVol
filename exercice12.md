@@ -209,7 +209,7 @@ R&eacute;capitulation :
 Erreurs courantes lors de l'apprentissage
 du d&eacute;crochage 
 
-<B>comme entra&icirc;nement &agrave; l'atterrissage</B>
+**comme entra&icirc;nement &agrave; l'atterrissage**
 :
 
 + mauvaise vitesse d'approche  (habituellement
@@ -241,8 +241,8 @@ de contr&ocirc;le lat&eacute;ral)
 
 
 Erreurs courantes lors de la pratique du d&eacute;crochage
-en <B>virage</B> <B>avec moteur</B> comme entra&icirc;nement au<B>
-d&eacute;crochage au d&eacute;collage et au d&eacute;part</B>
+en **virage** **avec moteur** comme entra&icirc;nement au**
+d&eacute;crochage au d&eacute;collage et au d&eacute;part**
 :
 
 + trop incliner l'avion  (le nez tombe et
@@ -273,8 +273,8 @@ si disponible, lors du    rattrappage
 
 
 Erreurs courantes lors de la pratique du d&eacute;crochage
-<B>sans moteur</B> comme entra&icirc;nement au<B> d&eacute;crochage
-pendant l'approche</B> :
+**sans moteur** comme entra&icirc;nement au** d&eacute;crochage
+pendant l'approche** :
 
 + avion trop inclin&eacute;  (va s'enfoncer
 dans le virage au lieu de d&eacute;crocher      de fa&ccedil;on
@@ -367,7 +367,7 @@ D&eacute;monstration :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <B>clef :  vol lent</B>
++ **clef :  vol lent**
 
 Premi&egrave;re partie :
 

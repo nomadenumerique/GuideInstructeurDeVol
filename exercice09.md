@@ -164,7 +164,7 @@ _ <U>descente</U>: moins ou pas d'aileron
 du c&ocirc;t&eacute; oppos&eacute;
 
 
-<B>Autres consid&eacute;rations :</B>
+**Autres consid&eacute;rations :**
 
 
 + g= 1/cos &Oslash;  et  Vd= Vd(1g) X &Atildeg
@@ -336,7 +336,7 @@ D&eacute;monstrations :
 + <U>motiver</U> l'&eacute;tudiant
 
 
-+ <U><B>clef :   3 sortes de virage</B></U>
++ <U>**clef :   3 sortes de virage**</U>
 
 + <U>s&eacute;curit&eacute;</U> (surveillance
 et r&eacute;f&eacute;rence)
